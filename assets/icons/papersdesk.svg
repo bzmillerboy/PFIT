@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="41px" height="37px" viewBox="0 0 41 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>Paperdesk</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Advisory" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Page" sketch:type="MSArtboardGroup" transform="translate(-718.000000, -1183.000000)" stroke-width="2" stroke="#FFFFFF">
+            <g id="Services-Copy" sketch:type="MSLayerGroup" transform="translate(0.000000, 1128.000000)">
+                <g id="Paperdesk" transform="translate(718.000000, 55.000000)" sketch:type="MSShapeGroup">
+                    <g id="outlined">
+                        <g id="Marketing" transform="translate(0.862454, 0.500000)">
+                            <g id="Papersdesk">
+                                <rect id="Rectangle-1493" x="0.698884758" y="21" width="38.4386617" height="14"></rect>
+                                <path d="M14.6765799,24.5 L25.1598513,24.5" id="Line"></path>
+                                <rect id="Rectangle-1494" x="7.68773234" y="7" width="16.7732342" height="14"></rect>
+                                <path d="M26.5576208,4.89999986 L26.5576208,20.878676 L9.78438662,20.878676" id="Rectangle-1494" transform="translate(18.171004, 12.889338) scale(1, -1) translate(-18.171004, -12.889338) "></path>
+                                <path d="M28.6542751,2.80000014 L28.6542751,20.9368642 L11.8810409,20.9368642" id="Rectangle-1494" transform="translate(20.267658, 11.868432) scale(1, -1) translate(-20.267658, -11.868432) "></path>
+                                <path d="M30.7509294,0.69999944 L30.7509294,20.9046922 L13.9776952,20.9046922" id="Rectangle-1494" transform="translate(22.364312, 10.802346) scale(1, -1) translate(-22.364312, -10.802346) "></path>
+                                <path d="M39.0734682,20.9250417 L35.8311346,14.4939826" id="Path-3383"></path>
+                                <path d="M3.94121802,20.9250417 L0.698884388,14.4939826" id="Path-3383" transform="translate(2.320051, 17.709512) scale(-1, 1) translate(-2.320051, -17.709512) "></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
