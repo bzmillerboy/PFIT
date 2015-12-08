@@ -24,7 +24,7 @@ get_header(); ?>
 			            <h1 class="brand">We USE technology to remove barriers<br class="visible-lg"> between physicians and patients.</h1>
 			            <p>Path forward empowers independent physician practices with technology-driven solutions that free them to focus on patient care.</p>
 			            <a class="btn btn-fill btn-brand-orange cc-active" href="">Learn More</a>
-									<p>test</p>
+									<p>Has been deployed</p>
 			        </div>
 			    </section>
 
