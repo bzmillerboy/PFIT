@@ -1,13 +1,3 @@
-*~
 .DS_Store
-.svn
-.cvs
-*.bak
-*.swp
-Thumbs.db
-wp-config.php
-*.log
-sitemap.xml
-sitemap.xml.gz
 .htaccess
-node_modules/
+node_modules
