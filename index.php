@@ -24,14 +24,13 @@ get_header(); ?>
 			            <h1 class="brand">We USE technology to remove barriers<br class="visible-lg"> between physicians and patients.</h1>
 			            <p>Path forward empowers independent physician practices with technology-driven solutions that free them to focus on patient care.</p>
 			            <a class="btn btn-fill btn-brand-orange cc-active" href="">Learn More</a>
-									<p>Has been deployed</p>
 			        </div>
 			    </section>
 
 			    <section class="section pad-section">
 			            <div class="container">
 			                <div class="row">
-			                    <div class="col-sm-12 text-center">
+			                    <div class="col-sm-8 col-sm-offset-2 text-center">
 			                        <h3>BECAUSE PATIENTS NEED THEIR DOCTORS MORE THAN EVER.</h3>
 			                    </div>
 			                </div>
@@ -49,7 +48,7 @@ get_header(); ?>
 			        </div>
 			    </section>
 
-			    <section class="section pad-section">
+			    <section class="section pad-section section-perfect">
 			        <div class="id-row">
 			            <div class="container-fluid">
 			                <div class="row">
@@ -66,19 +65,18 @@ get_header(); ?>
 			        </div>
 			    </section>
 
-			    <section class="section">
+			    <section class="section section-tight">
 			        <div class="container-fluid">
 			            <div class="row">
 			                <div class="col-sm-12 text-center">
 			                    <h2 class="brand">Services</h2>
-			                    <br>
 			                    <br>
 													<div class="col-ser">
 			                        <a href="/advisory">
 			                            <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/chart.svg" />
 			                            <h3 class="ser-title">Advisory</h3>
 			                            <p class="ser-desc">Expertise and Guidance for the toughest healthcare challenges</p>
-			                            <p class="ser-link">Learn More</p>
+			                            <span class="ser-link">Learn More</span>
 			                        </a>
 			                    </div>
 			                    <div class="col-ser">
@@ -86,7 +84,7 @@ get_header(); ?>
 			                            <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/network.svg" />
 			                            <h3 class="ser-title">Clinical Documentation</h3>
 			                            <p class="ser-desc">Traditional dictation meets discrete data</p>
-			                            <p class="ser-link">Learn More</p>
+			                            <span class="ser-link">Learn More</span>
 			                        </a>
 			                    </div>
 			                    <div class="col-ser">
@@ -94,7 +92,7 @@ get_header(); ?>
 			                            <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/Browsertool.svg" />
 			                            <h3 class="ser-title">Managed IT</h3>
 			                            <p class="ser-desc">Complete IT solutions for modern healthcare</p>
-			                            <p class="ser-link">Learn More</p>
+			                            <span class="ser-link">Learn More</span>
 			                        </a>
 			                    </div>
 			                    <div class="col-ser">
@@ -102,7 +100,7 @@ get_header(); ?>
 			                            <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/headset.svg" />
 			                            <h3 class="ser-title">Patient Contact Center</h3>
 			                            <p class="ser-desc">Revolutionizing how patients talk to their physicians</p>
-			                            <p class="ser-link">Learn More</p>
+			                            <span class="ser-link">Learn More</span>
 			                        </a>
 			                    </div>
 			                    <div class="col-ser">
@@ -110,7 +108,7 @@ get_header(); ?>
 			                            <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/billpaid.svg" />
 			                            <h3 class="ser-title">Compliance & Security</h3>
 			                            <p class="ser-desc">Keeping what's yours safe, secure and affordable </p>
-			                            <p class="ser-link">Learn More</p>
+			                            <span class="ser-link">Learn More</span>
 			                        </a>
 			                    </div>
 			               </div>
@@ -118,7 +116,7 @@ get_header(); ?>
 			        </div>
 			    </section>
 
-			    <section class="section pad-section">
+			    <section class="section pad-section section-arrows">
 			        <div class="container-fluid">
 			            <div class="row">
 			                <div class="col-sm-8 col-sm-offset-2 text-center">

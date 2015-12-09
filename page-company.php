@@ -37,7 +37,25 @@ get_header(); ?>
         </div>
     </section>
 
-    <section class="section pad-section">
+    <section class="section pad-section section-perfect">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <h3>Vision</h3>
+                    <p>To empower US healthcare providers with innovative technology
+                    solutions that free them to focus on patient care.</p>
+                </div>
+                <div class="col-sm-6">
+                    <h3>Mission</h3>
+                    <p>To improve our clients’ efficiency and effectiveness with unbiased
+                    guidance, seamless IT systems and applications support, and an
+                    unrelenting commitment to service.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section pad-section section-tight">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-sm-12 text-center">
@@ -395,24 +413,6 @@ get_header(); ?>
                             </div>
                         </div> <!-- end card-->
                     </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="section pad-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-6">
-                    <h3>Vision</h3>
-                    <p>To empower US healthcare providers with innovative technology
-                    solutions that free them to focus on patient care.</p>
-                </div>
-                <div class="col-sm-6">
-                    <h3>Mission</h3>
-                    <p>To improve our clients’ efficiency and effectiveness with unbiased
-                    guidance, seamless IT systems and applications support, and an
-                    unrelenting commitment to service.</p>
                 </div>
             </div>
         </div>

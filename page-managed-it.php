@@ -42,85 +42,73 @@ get_header(); ?>
     </section>
 
     <section class="section pad-section sell">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-2 col-sm-offset-1 sell-box">
-                    <div class="sell-icon" id="sell-1">
-                        <div class="icon-circle">
-                            <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
-                              <use class="papersdesk" xlink:href="#papersdesk" x="0" y="0" />
-                            </svg>
+        <div class="sell-cont">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-2 col-sm-offset-1 sell-box">
+                        <div class="sell-icon" id="sell-1">
+                            <div class="icon-circle">
+                                <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <use class="papersdesk" xlink:href="#papersdesk" x="0" y="0" />
+                                </svg>
+                            </div>
+                            <h5>Compassionate</h5>
                         </div>
-                        <h5>Compassionate</h5>
+                    </div>
+                    <div class="col-sm-2 sell-box">
+                        <div class="sell-icon" id="sell-2">
+                            <div class="icon-circle">
+                                <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <use class="papersdesk" xlink:href="#papersdesk" x="0" y="0" />
+                                </svg>
+                            </div>
+                            <h5>Comprehensive</h5>
+                        </div>
+                    </div>
+                    <div class="col-sm-2 sell-box">
+                        <div class="sell-icon" id="sell-3">
+                            <div class="icon-circle">
+                                <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <use class="papersdesk" xlink:href="#papersdesk" x="0" y="0" />
+                                </svg>
+                            </div>
+                            <h5>Customized</h5>
+                        </div>
+                    </div>
+                    <div class="col-sm-2 sell-box">
+                        <div class="sell-icon" id="sell-4">
+                            <div class="icon-circle">
+                                <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <use class="papersdesk" xlink:href="#papersdesk" x="0" y="0" />
+                                </svg>
+                            </div>
+                            <h5>Client-Centered</h5>
+                        </div>
+                    </div>
+                    <div class="col-sm-2 sell-box">
+                        <div class="sell-icon" id="sell-5">
+                            <div class="icon-circle">
+                                <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <use class="papersdesk" xlink:href="#papersdesk" x="0" y="0" />
+                                </svg>
+                            </div>
+                            <h5>Communication</h5>
+                        </div>
                     </div>
                 </div>
-                <div class="col-sm-2 sell-box">
-                    <div class="sell-icon" id="sell-2">
-                        <div class="icon-circle">
-                            <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
-                              <use class="papersdesk" xlink:href="#papersdesk" x="0" y="0" />
-                            </svg>
-                        </div>
-                        <h5>Comprehensive</h5>
+                <hr>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <h3 class="brand">SO, HOW ARE WE DIFFERENT?</h3>
                     </div>
-                </div>
-                <div class="col-sm-2 sell-box">
-                    <div class="sell-icon" id="sell-3">
-                        <div class="icon-circle">
-                            <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
-                              <use class="papersdesk" xlink:href="#papersdesk" x="0" y="0" />
-                            </svg>
-                        </div>
-                        <h5>Customized</h5>
+                    <div class="col-sm-1">
                     </div>
-                </div>
-                <div class="col-sm-2 sell-box">
-                    <div class="sell-icon" id="sell-4">
-                        <div class="icon-circle">
-                            <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
-                              <use class="papersdesk" xlink:href="#papersdesk" x="0" y="0" />
-                            </svg>
-                        </div>
-                        <h5>Client-Centered</h5>
-                    </div>
-                </div>
-                <div class="col-sm-2 sell-box">
-                    <div class="sell-icon" id="sell-5">
-                        <div class="icon-circle">
-                            <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
-                              <use class="papersdesk" xlink:href="#papersdesk" x="0" y="0" />
-                            </svg>
-                        </div>
-                        <h5>Communication</h5>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12">
-                </div>
-            </div>
-        </div>
-
-
-        <div class="sell-bg sell-cont">
-            <div class="">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-6">
-                            <h3 class="brand">SO, HOW ARE WE DIFFERENT?</h3>
-                        </div>
-                        <div class="col-sm-1">
-                        </div>
-                        <div class="col-sm-5">
-                            <span class="sell-cont-text" id="sell-cont-1">1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor tempus dui eu cursus. Nam pharetra quam sed semper maximus.</span>
-                            <span class="sell-cont-text" id="sell-cont-2">2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor tempus dui eu cursus. Nam pharetra quam sed semper maximus.</span>
-                            <span class="sell-cont-text" id="sell-cont-3">3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor tempus dui eu cursus. Nam pharetra quam sed semper maximus.</span>
-                            <span class="sell-cont-text" id="sell-cont-4">4 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor tempus dui eu cursus. Nam pharetra quam sed semper maximus.</span>
-                            <span class="sell-cont-text" id="sell-cont-5">5 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor tempus dui eu cursus. Nam pharetra quam sed semper maximus.</span>
-                        </div>
+                    <div class="col-sm-5">
+                        <span class="sell-cont-text" id="sell-cont-1">1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor tempus dui eu cursus. Nam pharetra quam sed semper maximus.</span>
+                        <span class="sell-cont-text" id="sell-cont-2">2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor tempus dui eu cursus. Nam pharetra quam sed semper maximus.</span>
+                        <span class="sell-cont-text" id="sell-cont-3">3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor tempus dui eu cursus. Nam pharetra quam sed semper maximus.</span>
+                        <span class="sell-cont-text" id="sell-cont-4">4 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor tempus dui eu cursus. Nam pharetra quam sed semper maximus.</span>
+                        <span class="sell-cont-text" id="sell-cont-5">5 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor tempus dui eu cursus. Nam pharetra quam sed semper maximus.</span>
                     </div>
                 </div>
             </div>
@@ -145,7 +133,7 @@ get_header(); ?>
         </div>
     </section>
 
-    <section class="section pad-section services-offerings offerings">
+    <section class="section pad-section services-offerings offerings section-perfect">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 text-center">

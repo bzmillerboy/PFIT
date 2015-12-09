@@ -28,7 +28,7 @@ get_header(); ?>
         </div>
     </section>
 
-    <div class="section pad-section">
+    <div class="section pad-section section-tight">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-sm-12 text-center">
@@ -81,7 +81,7 @@ get_header(); ?>
     </div>
 
 
-    <div class="section pad-section our-process">
+    <div class="section pad-section our-process section-arrows">
         <div class="container">
             <div class="row">
                 <div class="col-sm-8 col-sm-offset-2 text-center">

@@ -8897,9 +8897,6 @@ input.ct-red + span + label + span.switch-right {
 .card-user .title {
   line-height: 24px; }
 
-.card-user .content {
-  min-height: 240px; }
-
 .card-product .image {
   height: auto; }
 
@@ -13929,8 +13926,20 @@ address {
   transform: translate(-50%, -50%);
   width: 100%; }
 
-.pad-section {
-  padding: 100px 0; }
+.section {
+  box-shadow: rgba(0, 31, 51, 0.09) 0px -1px 0px 0px;
+  padding: 80px 0; }
+
+.section-arrows {
+  background-size: cover;
+  background-position: center center;
+  background-image: url(assets/images/arrows-bg.jpg); }
+
+.section-perfect {
+  background-color: #F3F6F7; }
+
+.section-tight {
+  padding-bottom: 50px; }
 
 /*******************************
   NAV
@@ -13977,8 +13986,8 @@ address {
       padding-bottom: 120px; } }
   @media (min-width: 1200px) {
     .hero {
-      padding-top: 200px;
-      padding-bottom: 200px; } }
+      padding-top: 190px;
+      padding-bottom: 190px; } }
   .hero h1, .hero p, .hero .btn {
     margin-bottom: 28px; }
   .hero h1 {
@@ -14001,7 +14010,7 @@ address {
   @media (min-width: 1200px) {
     .unity {
       padding-top: 20px;
-      padding-bottom: 320px; } }
+      padding-bottom: 280px; } }
 
 .services {
   background-image: radial-gradient(50% 118%, rgba(0, 58, 92, 0.85) 44%, rgba(0, 58, 92, 0.95) 100%), url(assets/images/services-bg.jpg); }
@@ -14027,11 +14036,6 @@ address {
 /*******************************
   PAGES
 ********************************/
-.our-process {
-  background-size: cover;
-  background-position: center center;
-  background-image: url(assets/images/arrows-bg.jpg); }
-
 .timeline-panel {
   border: 4px solid #F5F5F5;
   border-radius: 8px;
@@ -14107,13 +14111,13 @@ address {
   .id-row .id-text {
     margin-top: 20px; }
   .id-row .id-content-small {
-    background-color: white;
+    background-color: #F3F6F7;
     height: 136px; }
   .id-row .id-content-small:after {
     width: 0;
     height: 0;
     border-top: 68px solid transparent;
-    border-left: 68px solid white;
+    border-left: 68px solid #F3F6F7;
     border-bottom: 68px solid transparent;
     content: " ";
     position: absolute;
@@ -14122,9 +14126,9 @@ address {
   .id-row .id-content-small:before {
     width: 0;
     height: 0;
-    border-top: 68px solid white;
+    border-top: 68px solid #F3F6F7;
     border-left: 68px solid #78BE20;
-    border-bottom: 68px solid white;
+    border-bottom: 68px solid #F3F6F7;
     content: " ";
     position: absolute;
     left: -68px;
@@ -14135,14 +14139,14 @@ address {
     background-color: #78BE20;
     height: 316px; }
     .id-row .id-content {
-      background-color: white;
+      background-color: #F3F6F7;
       height: 316px;
       padding-left: 50px; }
     .id-row .id-content:after {
       width: 0;
       height: 0;
       border-top: 158px solid transparent;
-      border-left: 156px solid white;
+      border-left: 156px solid #F3F6F7;
       border-bottom: 158px solid transparent;
       content: " ";
       position: absolute;
@@ -14151,9 +14155,9 @@ address {
     .id-row .id-content:before {
       width: 0;
       height: 0;
-      border-top: 158px solid white;
+      border-top: 158px solid #F3F6F7;
       border-left: 156px solid #78BE20;
-      border-bottom: 158px solid white;
+      border-bottom: 158px solid #F3F6F7;
       content: " ";
       position: absolute;
       left: -156px;
@@ -14196,6 +14200,9 @@ footer {
   float: left;
   cursor: pointer;
   margin-bottom: 56px; }
+  @media (min-width: 992px) {
+    .col-ser {
+      margin-bottom: 0; } }
   .col-ser .ser-title {
     min-height: 0px;
     margin-top: 40px;
@@ -14242,6 +14249,9 @@ footer {
   padding-right: 1%;
   float: left;
   margin-bottom: 56px; }
+  @media (min-width: 992px) {
+    .col-val {
+      margin-bottom: 0; } }
   .col-val .ser-title {
     min-height: 70px;
     margin-top: 10px;
@@ -14298,30 +14308,20 @@ footer {
 .offerings .icon-circle {
   background: #78BE20; }
 
-.sell .icon-circle {
-  background: #FF8F1C; }
-
-.sell .sell-icon {
-  text-align: center;
-  padding-top: 15px; }
-
-.sell .sell-box:hover {
-  background-color: #F3F6F7; }
-
-.sell .sell-bg {
-  color: white;
-  position: relative;
+.sell {
   background-size: cover;
   background-position: center center;
   background-image: url(assets/images/sell-bg.jpg);
-  margin-top: 50px;
-  padding-top: 150px;
-  padding-bottom: 150px; }
-
-.sell .sell-connector {
-  position: absolute;
-  z-index: 9;
-  left: 16%; }
+  color: white; }
+  .sell .icon-circle {
+    background: #FF8F1C; }
+  .sell .sell-icon {
+    text-align: center;
+    padding-top: 15px; }
+  .sell .sell-connector {
+    position: absolute;
+    z-index: 9;
+    left: 16%; }
 
 .visible {
   visibility: visible !important; }
@@ -14429,7 +14429,7 @@ svg g {
 
 .mask {
   overflow: hidden;
-  height: 160px; }
+  height: 100px; }
 
 .slider .slide {
   position: absolute;

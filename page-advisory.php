@@ -39,7 +39,7 @@ get_header(); ?>
         </div>
     </section>
 
-    <section class="section pad-section services-offerings offerings">
+    <section class="section pad-section services-offerings offerings section-perfect">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 text-center">
