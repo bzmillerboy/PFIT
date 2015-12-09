@@ -55,22 +55,22 @@ get_header(); ?>
                         <p class="ser-desc">We propose solutions, we don’t pass the buck.</p>
                     </div>
                     <div class="col-val">
-                        <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/Tie.svg" />
+                        <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/Shakinghands.svg" />
                         <h3 class="ser-title">Respect</h3>
                         <p class="ser-desc">We treat others as we’d hope to be treated.</p>
                     </div>
                     <div class="col-val">
-                        <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/Windows.svg" />
+                        <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/Loopheart.svg" />
                         <h3 class="ser-title">Transparency</h3>
                         <p class="ser-desc">We’re honest and forthright at all times.</p>
                     </div>
                     <div class="col-val">
-                        <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/MaleOK.svg" />
+                        <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/Balance.svg" />
                         <h3 class="ser-title">Integrity</h3>
                         <p class="ser-desc">We say what we mean, and mean what we say.</p>
                     </div>
                     <div class="col-val">
-                        <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/Comments.svg" />
+                        <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/Lovestudy.svg" />
                         <h3 class="ser-title">Empathy</h3>
                         <p class="ser-desc">We listen to others’ emotions and expectations.</p>
                     </div>

@@ -44,16 +44,16 @@ get_header(); ?>
                         </a>
                     </div>
                     <div class="col-ser">
-                        <a href="/application-services">
-                            <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/browser.svg" />
-                            <h3 class="ser-title">Application Services</h3>
-                            <p class="ser-desc">You own your EMR, don't let it own you</p>
+                        <a href="/clinical-documentation">
+                            <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/network.svg" />
+                            <h3 class="ser-title">Clinical Documentation</h3>
+                            <p class="ser-desc">Traditional dictation meets discrete data</p>
                             <p class="ser-link">Learn More</p>
                         </a>
                     </div>
                     <div class="col-ser">
                         <a href="/managed-it">
-                            <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/desk.svg" />
+                            <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/Browsertool.svg" />
                             <h3 class="ser-title">Managed IT</h3>
                             <p class="ser-desc">Complete IT solutions for modern healthcare</p>
                             <p class="ser-link">Learn More</p>
@@ -61,7 +61,7 @@ get_header(); ?>
                     </div>
                     <div class="col-ser">
                         <a href="/patient-contact-center">
-                            <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/bed.svg" />
+                            <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/headset.svg" />
                             <h3 class="ser-title">Patient Contact Center</h3>
                             <p class="ser-desc">Revolutionizing how patients talk to their physicians</p>
                             <p class="ser-link">Learn More</p>
