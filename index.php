@@ -17,9 +17,9 @@ get_header(); ?>
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
 
-			<div class="wrapper homepage">
+			<div class="wrapper">
 
-			    <section class="hero we">
+			    <section class="hero homepage">
 			        <div class="container">
 			            <h1 class="brand">We USE technology to remove barriers<br class="visible-lg"> between physicians and patients.</h1>
 			            <p>Path forward empowers independent physician practices with technology-driven solutions that free them to focus on patient care.</p>
@@ -32,6 +32,7 @@ get_header(); ?>
 			                <div class="row">
 			                    <div class="col-sm-8 col-sm-offset-2 text-center">
 			                        <h3>BECAUSE PATIENTS NEED THEIR DOCTORS MORE THAN EVER.</h3>
+															<p class="text-muted">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 			                    </div>
 			                </div>
 			            </div>

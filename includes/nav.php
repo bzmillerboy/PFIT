@@ -11,7 +11,7 @@
       <div class="">
         <div class="logo">
           <a href="<?php echo home_url(); ?>">
-            <img class="" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/pfit-logo.svg" alt="Path Forward IT">
+            <img class="" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/pfit-logo-white.svg" alt="Path Forward IT">
           </a>
         </div>
       </div>

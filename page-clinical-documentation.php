@@ -31,19 +31,19 @@ get_header(); ?>
     <section class="section pad-section">
         <div class="container">
             <div class="row">
-                <div class="col-sm-12 text-center">
+                <div class="col-sm-12">
                     <div class="row">
-                        <div class="col-sm-8 col-sm-offset-2">
-                            <div class="embed-responsive embed-responsive-16by9">
-                                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gJot_8dm3fY"></iframe>
-                            </div>
-                        </div>
+						<div class="col-sm-8 col-sm-offset-2 text-center">
+		                    <h3 class="flush-top">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</h3>
+							<p class="text-muted">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p>
+		                </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
+<!--OLD
     <section class="section pad-section services-offerings offerings section-perfect">
         <div class="container">
             <div class="row">
@@ -53,7 +53,7 @@ get_header(); ?>
                           <use class="papersdesk" xlink:href="#papersdesk" x="0" y="0" />
                         </svg>
                     </div>
-                    <h2 class="text-center">Clinical Documentation Offerings</h2>
+                    <h2 class="text-center brand">Clinical Documentation Offerings</h2>
                 </div>
             </div>
             <div class="row">
@@ -170,6 +170,46 @@ get_header(); ?>
                         <p class="serv-off-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sapien eu lorem faucibus cursus at sed lectus. Nam interdum egestas imperdiet.</p>
                     </div>
 
+                </div>
+            </div>
+        </div>
+    </section>
+-->
+
+	<section class="section pad-section section-red">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="row">
+						<div class="col-md-6">
+		                    <div class="embed-responsive embed-responsive-16by9">
+		                        <iframe class="embed-responsive-item" src="//www.youtube.com/v/gJot_8dm3fY?color2=FBE9EC&amp;rel=0&amp;hd=1&amp;showsearch=0&amp;showinfo=0&amp;controls=0&amp;version=3&amp;modestbranding=1"></iframe>
+		                    </div>
+		                </div>
+						<div class="col-md-5 col-md-offset-1">
+		                    <h3 class="flush-top">Virtual Scribe</h3>
+                            <p class="text-muted">EMR technologies  have brought great advances to healthcare however unfortunately often at the cost of the medical providers quality of life. We are not anti-EMR we are just pro-Physician. Our virtual scribe service assures that you can continue to meet meaningful use and other clinical quality initiatives by populating the correct discrete data fields in your EMR while also allowing you the freedom and creativity of using your OWN words to document your patient visit. Great data - great care and you are home on time…</p>
+		                </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section pad-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="row">
+                        <div class="col-md-5 col-md-offset-1">
+		                    <h3 class="flush-top">Voice Recognition</h3>
+                            <p class="text-muted">Utilizing real-time speech recognition technologies has become a mainstay for many independent physicians. Path Forward is trained and certified on all major voice recognition platforms and can provide complete sales, implementation and support for Nuance's Dragon and NVOQs platforms. We can also help you configure back-end speech recognition as well!</p>
+		                </div>
+						<div class="col-md-5 col-md-offset-1">
+		                    <h3 class="flush-top">Traditional Transcription</h3>
+                            <p class="text-muted">Our revolutionary, proprietary guided workflow makes for a great patient experience. Agents know exactly the information they need, when they need it.</p>
+		                </div>
+                    </div>
                 </div>
             </div>
         </div>

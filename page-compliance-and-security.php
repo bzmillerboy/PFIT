@@ -22,7 +22,8 @@ get_header(); ?>
     <section class="hero compliance-security">
         <div class="container">
             <h1 class="brand">
-                COMPLIANCE = <s>BURDEN</s> RESPONSIBILITY
+                COMPLIANCE =
+                <span class="x-out-container">BURDEN<img class="x-out" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/x.png" /></span> RESPONSIBILITY
             </h1>
             <p>Maybe it's just us, but we feel like people are looking at HIPAA compliance all wrong. This isn't a burden, this is a responsibility. A commitment to patients who trust you with their care that you will take their information, their circumstances and private health matters seriously and do your best to protect them.</p>
         </div>
@@ -36,9 +37,7 @@ get_header(); ?>
                     <p>
                         <em>...Like seatbelts in cars.</em>
                     </p>
-                    <p>
-                        It became a burden because most of our competitors approach it that way. Price gouging - fear sales - complicated products services with no endpoint - no practical day to day guidance on how to operationalize HIPAA compliance. HIPAA compliance should be part of what you do every day - not something you do once a year.
-                    </p>
+                    <p class="text-muted">It became a burden because most of our competitors approach it that way. Price gouging - fear sales - complicated products services with no endpoint - no practical day to day guidance on how to operationalize HIPAA compliance. HIPAA compliance should be part of what you do every day - not something you do once a year.</p>
                 </div>
             </div>
         </div>
@@ -53,7 +52,7 @@ get_header(); ?>
                           <use class="papersdesk" xlink:href="#papersdesk" x="0" y="0" />
                         </svg>
                     </div>
-                    <h2 class="text-center">Compliance &amp; Security Offerings</h2>
+                    <h2 class="text-center brand">Compliance &amp; Security Offerings</h2>
                 </div>
             </div>
             <div class="row">

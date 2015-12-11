@@ -36,7 +36,7 @@ get_header(); ?>
                 </div>
                 <div class="col-sm-12">
                     <div class="slider">
-                        <div class="mask">
+                        <div class="mask text-muted">
                             <div class="slide firstanimation">
                                 <p>Wisdom comes from acknowledging mistakes quickly and never giving up.</p>
                             </div>

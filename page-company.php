@@ -32,6 +32,7 @@ get_header(); ?>
             <div class="row">
                 <div class="col-sm-8 col-sm-offset-2 text-center">
                     <h3>Simply put - there is no one else like us and we are very proud of that.</h3>
+					<p class="text-muted">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p>
                 </div>
             </div>
         </div>

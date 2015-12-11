@@ -13938,6 +13938,24 @@ address {
 .section-perfect {
   background-color: #F3F6F7; }
 
+.section-red {
+  background-color: #AF272F;
+  color: white; }
+  .section-red .text-muted {
+    color: #ccc; }
+
+.section-orange {
+  background-color: #FF8F1C;
+  color: white; }
+  .section-orange .text-muted {
+    color: #ccc; }
+
+.section-green {
+  background-color: #78BE20;
+  color: white; }
+  .section-green .text-muted {
+    color: #ccc; }
+
 .section-tight {
   padding-bottom: 50px; }
 
@@ -13995,9 +14013,6 @@ address {
     line-height: 1em;
     text-shadow: 0px 1px 10px rgba(0, 0, 0, 0.25); }
 
-.we {
-  background-image: radial-gradient(50% 118%, rgba(0, 58, 92, 0.85) 44%, rgba(0, 58, 92, 0.95) 100%), url(assets/images/homepage-hero-bg.jpg); }
-
 .unity {
   background-image: url(assets/images/unity-bg.jpg);
   text-align: left;
@@ -14012,26 +14027,35 @@ address {
       padding-top: 20px;
       padding-bottom: 280px; } }
 
+.homepage {
+  background-image: radial-gradient(50% 100%, rgba(0, 58, 92, 0.85) 44%, rgba(0, 58, 92, 0.95) 100%), url(assets/images/homepage-hero-bg.jpg); }
+
 .services {
-  background-image: radial-gradient(50% 118%, rgba(0, 58, 92, 0.85) 44%, rgba(0, 58, 92, 0.95) 100%), url(assets/images/services-bg.jpg); }
-
-.contact-us {
-  background-image: radial-gradient(50% 118%, rgba(0, 58, 92, 0.85) 44%, rgba(0, 58, 92, 0.95) 100%), url(assets/images/contact-us-bg.jpg); }
-
-.careers {
-  background-image: radial-gradient(50% 118%, rgba(0, 58, 92, 0.85) 44%, rgba(0, 58, 92, 0.95) 100%), url(assets/images/contact-us-bg.jpg); }
+  background-image: radial-gradient(50% 100%, rgba(120, 180, 30, 0.85) 44%, rgba(120, 180, 30, 0.95) 100%), url(assets/images/services-bg.jpg); }
 
 .clinical-docs {
-  background-image: radial-gradient(50% 118%, rgba(0, 58, 92, 0.85) 44%, rgba(0, 58, 92, 0.95) 100%), url(assets/images/contact-us-bg.jpg); }
-
-.company {
-  background-image: radial-gradient(50% 118%, rgba(0, 58, 92, 0.85) 44%, rgba(0, 58, 92, 0.95) 100%), url(assets/images/contact-us-bg.jpg); }
+  background-image: radial-gradient(50% 100%, rgba(120, 180, 30, 0.85) 44%, rgba(120, 180, 30, 0.95) 100%), url(assets/images/clinical-documentation-bg.jpg); }
 
 .compliance-security {
-  background-image: radial-gradient(50% 118%, rgba(0, 58, 92, 0.85) 44%, rgba(0, 58, 92, 0.95) 100%), url(assets/images/contact-us-bg.jpg); }
+  background-image: radial-gradient(50% 100%, rgba(120, 180, 30, 0.85) 44%, rgba(120, 180, 30, 0.95) 100%), url(assets/images/compliance-and-security-bg.jpg); }
 
 .managed-it {
-  background-image: radial-gradient(50% 118%, rgba(0, 58, 92, 0.85) 44%, rgba(0, 58, 92, 0.95) 100%), url(assets/images/contact-us-bg.jpg); }
+  background-image: radial-gradient(50% 100%, rgba(120, 180, 30, 0.85) 44%, rgba(120, 180, 30, 0.95) 100%), url(assets/images/managed-it-bg.jpg); }
+
+.advisory {
+  background-image: radial-gradient(50% 100%, rgba(120, 180, 30, 0.85) 44%, rgba(120, 180, 30, 0.95) 100%), url(assets/images/advisory-bg.jpg); }
+
+.patient-contact {
+  background-image: radial-gradient(50% 100%, rgba(120, 180, 30, 0.85) 44%, rgba(120, 180, 30, 0.95) 100%), url(assets/images/patient-contact-center-bg.jpg); }
+
+.company {
+  background-image: radial-gradient(50% 100%, rgba(255, 143, 28, 0.85) 44%, rgba(255, 143, 28, 0.95) 100%), url(assets/images/company-bg.jpg); }
+
+.contact-us {
+  background-image: radial-gradient(50% 100%, rgba(34, 34, 34, 0.85) 44%, rgba(34, 34, 34, 0.95) 100%), url(assets/images/contact-us-bg.jpg); }
+
+.careers {
+  background-image: radial-gradient(50% 100%, rgba(175, 39, 47, 0.85) 44%, rgba(175, 39, 47, 0.95) 100%), url(assets/images/careers-bg.jpg); }
 
 /*******************************
   PAGES
@@ -14162,6 +14186,15 @@ address {
       position: absolute;
       left: -156px;
       top: 0; } }
+
+.x-out-container {
+  position: relative; }
+  .x-out-container .x-out {
+    position: absolute;
+    top: 10%;
+    left: 0;
+    width: 45%;
+    transform: translateX(50%); }
 
 /*******************************
   FOOTER

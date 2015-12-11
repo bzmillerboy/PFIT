@@ -20,7 +20,7 @@ get_header(); ?>
 <div class="wrapper">
 
 
-    <div class="hero services">
+    <div class="hero patient-contact">
         <div class="container text-center">
             <h1 class="brand">
                 GAME CHANGER
@@ -36,11 +36,13 @@ get_header(); ?>
     <section class="section pad-section">
         <div class="container">
             <div class="row">
-                <div class="col-sm-8 col-sm-offset-2 text-center">
-                    <h3>This is the real deal. Watch this video to find out why. Seriously, watch the video.</h3>
-                    <br>
+                <div class="col-md-6">
+                    <h3 class="flush-top">This is the real deal. Watch this video to find out why. Seriously, watch the video.</h3>
+					<p class="text-muted">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p>
+                </div>
+                <div class="col-md-6">
                     <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gJot_8dm3fY"></iframe>
+                        <iframe class="embed-responsive-item" src="//www.youtube.com/v/gJot_8dm3fY?color2=FBE9EC&amp;rel=0&amp;hd=1&amp;showsearch=0&amp;showinfo=0&amp;controls=0&amp;version=3&amp;modestbranding=1"></iframe>
                     </div>
                 </div>
             </div>
@@ -56,7 +58,7 @@ get_header(); ?>
                           <use class="papersdesk" xlink:href="#papersdesk" x="0" y="0" />
                         </svg>
                     </div>
-                    <h2 class="text-center">Patient Contact Center Offerings</h2>
+                    <h2 class="text-center brand">Patient Contact Center Offerings</h2>
                 </div>
             </div>
             <div class="row">

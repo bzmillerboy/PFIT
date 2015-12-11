@@ -33,9 +33,7 @@ get_header(); ?>
             <div class="row">
                 <div class="col-sm-8 col-sm-offset-2 text-center">
                     <h3>GET A VENDOR THAT FITS LIKE A GLOVE. </h3>
-                    <p>
-                        We only serve independent physician practices, and we realize there’s no such thing as a one size fits all solution. So when it comes to your specific IT needs, we’ve got the dexterity to craft customized solutions that <em>truly fit</em>.
-                    </p>
+                    <p class="text-muted"> We only serve independent physician practices, and we realize there’s no such thing as a one size fits all solution. So when it comes to your specific IT needs, we’ve got the dexterity to craft customized solutions that <em>truly fit</em>. </p>
                 </div>
             </div>
         </div>
@@ -115,24 +113,6 @@ get_header(); ?>
         </div>
     </section>
 
-    <section class="section pad-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12 text-center">
-                    <h2>Alike in the Ways that Matter</h2>
-                    <div class="row push-top">
-                        <div class="col-sm-4 col-sm-offset-2">
-                            <img class="img-responsive center-block partner-logo" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/microsoft-partner-network-logo.svg" />
-                        </div>
-                        <div class="col-sm-4">
-                            <img class="img-responsive center-block partner-logo" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/hp-logo.svg" />
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
     <section class="section pad-section services-offerings offerings section-perfect">
         <div class="container">
             <div class="row">
@@ -142,7 +122,7 @@ get_header(); ?>
                           <use class="papersdesk" xlink:href="#papersdesk" x="0" y="0" />
                         </svg>
                     </div>
-                    <h2 class="text-center">Managed IT Offerings</h2>
+                    <h2 class="text-center brand">Managed IT Offerings</h2>
                 </div>
             </div>
             <div class="row">
