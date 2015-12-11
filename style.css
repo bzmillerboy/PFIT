@@ -14347,7 +14347,7 @@ footer {
   background-image: url(assets/images/sell-bg.jpg);
   color: white; }
   .sell .icon-circle {
-    background: #FF8F1C; }
+    background: transparent; }
   .sell .sell-icon {
     text-align: center;
     padding-top: 15px; }
