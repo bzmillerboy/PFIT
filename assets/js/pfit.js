@@ -31,32 +31,8 @@
 
 
 //Managed IT Sell Section
-$('#sell-1').hover(
-  function () {
-    $( "#sell-cont-1" ).toggleClass("visible");
-  }
-);
+//$( "#sell-2" ).toggleClass( "sell-box-active" )
 
-$('#sell-2').hover(
-  function () {
-    $( "#sell-cont-2" ).toggleClass("visible");
-  }
-);
-
-$('#sell-3').hover(
-  function () {
-    $( "#sell-cont-3" ).toggleClass("visible");
-  }
-);
-
-$('#sell-4').hover(
-  function () {
-    $( "#sell-cont-4" ).toggleClass("visible");
-  }
-);
-
-$('#sell-5').hover(
-  function () {
-    $( "#sell-cont-5" ).toggleClass("visible");
-  }
-);
+$( ".sell-box" ).hover(function() {
+  $( this ).toggleClass( "sell-box-active" );
+});

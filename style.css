@@ -14346,11 +14346,42 @@ footer {
   background-position: center center;
   background-image: url(assets/images/sell-bg.jpg);
   color: white; }
+  .sell .sell-box {
+    width: 20%;
+    float: left; }
+  .sell .sell-box-active .card-title {
+    color: #333333; }
+  .sell .sell-box-active .card {
+    background: white;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.23); }
+  .sell .sell-box-active .sell-cont-text {
+    visibility: visible;
+    opacity: 1; }
+  .sell .sell-box-active .icon-circle {
+    background: #003B5C; }
+  .sell .card-title {
+    text-align: center; }
+  .sell .card {
+    margin-top: -35px;
+    position: relative;
+    z-index: 1;
+    padding-top: 20px;
+    background: transparent;
+    box-shadow: none; }
+  .sell .sell-cont-text {
+    color: #777777;
+    font-size: 16px;
+    visibility: hidden;
+    opacity: 0; }
   .sell .icon-circle {
     background: transparent; }
+    .sell .icon-circle .icon {
+      fill: #ffffff; }
   .sell .sell-icon {
     text-align: center;
-    padding-top: 15px; }
+    padding-top: 15px;
+    z-index: 2;
+    position: relative; }
   .sell .sell-connector {
     position: absolute;
     z-index: 9;
@@ -14359,9 +14390,9 @@ footer {
 .visible {
   visibility: visible !important; }
 
-.sell-cont .sell-cont-text {
-  visibility: hidden;
-  position: absolute; }
+.connectors {
+  margin-top: -30px;
+  margin-bottom: -16px; }
 
 .services-offerings .serv-off-title {
   color: #78BE20;

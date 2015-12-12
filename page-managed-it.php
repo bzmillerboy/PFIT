@@ -49,65 +49,85 @@ get_header(); ?>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-sm-2 col-sm-offset-1 sell-box">
-                        <div class="sell-icon" id="sell-1">
-                            <div class="icon-circle">
-                                <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                  <use class="papersdesk" xlink:href="#papersdesk" x="0" y="0" />
-                                </svg>
-                            </div>
-                            <h5>Compassionate</h5>
-                        </div>
-                    </div>
-                    <div class="col-sm-2 sell-box">
-                        <div class="sell-icon" id="sell-2">
-                            <div class="icon-circle">
-                                <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                  <use class="papersdesk" xlink:href="#papersdesk" x="0" y="0" />
-                                </svg>
-                            </div>
-                            <h5>Comprehensive</h5>
-                        </div>
-                    </div>
-                    <div class="col-sm-2 sell-box">
-                        <div class="sell-icon" id="sell-3">
-                            <div class="icon-circle">
-                                <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                  <use class="papersdesk" xlink:href="#papersdesk" x="0" y="0" />
-                                </svg>
-                            </div>
-                            <h5>Customized</h5>
-                        </div>
-                    </div>
-                    <div class="col-sm-2 sell-box">
-                        <div class="sell-icon" id="sell-4">
-                            <div class="icon-circle">
-                                <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                  <use class="papersdesk" xlink:href="#papersdesk" x="0" y="0" />
-                                </svg>
-                            </div>
-                            <h5>Client-Centered</h5>
-                        </div>
-                    </div>
-                    <div class="col-sm-2 sell-box">
-                        <div class="sell-icon" id="sell-5">
-                            <div class="icon-circle">
-                                <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                  <use class="papersdesk" xlink:href="#papersdesk" x="0" y="0" />
-                                </svg>
-                            </div>
-                            <h5>Communication</h5>
-                        </div>
+                    <div class="col-sm-12 text-center">
+                        <img class="connectors" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/connectors.svg" >
                     </div>
                 </div>
-                <hr>
                 <div class="row">
-                    <div class="col-sm-12">
-                        <span class="sell-cont-text" id="sell-cont-1">1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor tempus dui eu cursus. Nam pharetra quam sed semper maximus.</span>
-                        <span class="sell-cont-text" id="sell-cont-2">2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor tempus dui eu cursus. Nam pharetra quam sed semper maximus.</span>
-                        <span class="sell-cont-text" id="sell-cont-3">3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor tempus dui eu cursus. Nam pharetra quam sed semper maximus.</span>
-                        <span class="sell-cont-text" id="sell-cont-4">4 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor tempus dui eu cursus. Nam pharetra quam sed semper maximus.</span>
-                        <span class="sell-cont-text" id="sell-cont-5">5 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor tempus dui eu cursus. Nam pharetra quam sed semper maximus.</span>
+                    <div class="sell-box" id="sell-1">
+                        <div class="sell-icon">
+                            <div class="icon-circle">
+                                <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <use class="Shakinghands" xlink:href="#Shakinghands" x="0" y="0" />
+                                </svg>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="content">
+                                <h5 class="card-title">Compassionate</h5>
+                                <p class="sell-cont-text">This would be some copy about what makes Path Forward IT compassionate. Good copy here will make the sale.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="sell-box" id="sell-2">
+                        <div class="sell-icon">
+                            <div class="icon-circle">
+                                <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <use class="Effects" xlink:href="#Effects" x="0" y="0" />
+                                </svg>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="content">
+                                <h5 class="card-title">Comprehensive</h5>
+                                <p class="sell-cont-text">This would be some copy about what makes Path Forward IT compassionate. Good copy here will make the sale.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="sell-box" id="sell-3">
+                        <div class="sell-icon">
+                            <div class="icon-circle">
+                                <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <use class="Pulley" xlink:href="#Pulley" x="0" y="0" />
+                                </svg>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="content">
+                                <h5 class="card-title">Creative</h5>
+                                <p class="sell-cont-text">This would be some copy about what makes Path Forward IT compassionate. Good copy here will make the sale.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="sell-box" id="sell-4">
+                        <div class="sell-icon">
+                            <div class="icon-circle">
+                                <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <use class="Heartarrow" xlink:href="#Heartarrow" x="0" y="0" />
+                                </svg>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="content">
+                                <h5 class="card-title">Charming</h5>
+                                <p class="sell-cont-text">This would be some copy about what makes Path Forward IT compassionate. Good copy here will make the sale.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="sell-box" id="sell-5">
+                        <div class="sell-icon">
+                            <div class="icon-circle">
+                                <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <use class="Message" xlink:href="#Message" x="0" y="0" />
+                                </svg>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="content">
+                                <h5 class="card-title">Communication</h5>
+                                <p class="sell-cont-text">This would be some copy about what makes Path Forward IT compassionate. Good copy here will make the sale.</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

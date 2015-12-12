@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="943px" height="107px" viewBox="0 0 943 107" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>connectors</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="connectors" sketch:type="MSLayerGroup" transform="translate(1.000000, 0.000000)" stroke="#FFFFFF" stroke-width="2">
+            <path d="M472.064697,0.0751953125 L472.002197,105.94165" id="3-path" sketch:type="MSShapeGroup"></path>
+            <path d="M472.122803,0.0339355469 L472.098633,52.9482422 L236.082752,52.9482422 L236.082752,105.995398" id="2-path" sketch:type="MSShapeGroup"></path>
+            <path d="M472.137451,0.0642089844 L472.137451,52.9900763 L0.149652832,52.9900763 L0.149652832,106.082551" id="1-path" sketch:type="MSShapeGroup"></path>
+            <path d="M472.045166,0.0363769531 L472.045166,53.0963077 L705.065919,53.0963077 L705.065919,106.054462" id="4-path" sketch:type="MSShapeGroup"></path>
+            <path d="M472.112549,0.124511719 L472.112549,53.058594 L940.109865,53.058594 L940.109865,105.911658" id="Path-5" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

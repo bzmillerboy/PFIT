@@ -2,6 +2,22 @@ var gulp        = require('gulp');
 var browserSync = require('browser-sync');
 var reload      = browserSync.reload;
 var sass        = require('gulp-sass');
+var svgSprite   = require('gulp-svg-sprite');
+
+// create svg sprite
+gulp.task('svg-sprite', function () {
+    var config = {
+		log: "info",
+        mode                : {
+            symbol          : {
+                dest: '../../includes/'
+            }
+        }
+	};
+    return gulp.src('assets/icons/*.svg')
+    .pipe(svgSprite(config))
+    .pipe(gulp.dest('assets/icons/'));
+});
 
 // browser-sync task for starting the server.
 gulp.task('browser-sync', function() {
@@ -29,6 +45,6 @@ gulp.task('sass', function () {
 });
 
 // Default task to be run with `gulp`
-gulp.task('default', ['sass', 'browser-sync'], function () {
+gulp.task('default', ['svg-sprite', 'sass', 'browser-sync'], function () {
     gulp.watch("scss/**/*.scss", ['sass']);
 });

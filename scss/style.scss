@@ -515,12 +515,54 @@ footer {
   background-position: center center;
   background-image: url(assets/images/sell-bg.jpg);
   color: white;
+  .sell-box {
+    width: 20%;
+    float: left;
+  }
+  .sell-box-active {
+    .card-title {
+      color: $gray-dark;
+    }
+    .card {
+      background: white;
+      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.23);
+    }
+    .sell-cont-text {
+      visibility: visible;
+      opacity: 1;
+    }
+    .icon-circle {
+      background: $brand-dark-blue;
+    }
+  }
+  .card-title {
+    text-align: center;
+  }
+  .card {
+    margin-top: -35px;
+    position: relative;
+    z-index: 1;
+    padding-top: 20px;
+    background: transparent;
+    box-shadow: none;
+  }
+  .sell-cont-text {
+    color: $gray-light;
+    font-size: 16px;
+    visibility: hidden;
+    opacity: 0;
+  }
   .icon-circle {
     background: transparent;
+    .icon {
+      fill: #ffffff;
+    }
   }
   .sell-icon {
     text-align: center;
     padding-top: 15px;
+    z-index: 2;
+    position: relative;
   }
   .sell-connector {
     position: absolute;
@@ -531,13 +573,11 @@ footer {
 .visible {
   visibility:visible !important;
 }
-.sell-cont {
-  .sell-cont-text {
-    visibility: hidden;
-    position: absolute;
-  }
-}
 
+.connectors {
+  margin-top: -30px;
+  margin-bottom: -16px;
+}
 
 .services-offerings {
   .serv-off-title {
