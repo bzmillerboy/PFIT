@@ -13903,6 +13903,9 @@ Copyright (c) 2014 Daniel Eden
 html, body {
   height: 100%; }
 
+p {
+  font-size: 16px; }
+
 li {
   -webkit-font-smoothing: antialiased; }
 
@@ -13931,6 +13934,9 @@ address {
 .section {
   box-shadow: rgba(0, 31, 51, 0.09) 0px -1px 0px 0px;
   padding: 80px 0; }
+
+.section-hard-ends {
+  padding: 0; }
 
 .section-arrows {
   background-size: cover;
@@ -14002,12 +14008,12 @@ address {
   padding-bottom: 20px; }
   @media (min-width: 992px) {
     .hero {
-      padding-top: 120px;
-      padding-bottom: 120px; } }
+      padding-top: 80px;
+      padding-bottom: 20px; } }
   @media (min-width: 1200px) {
     .hero {
-      padding-top: 190px;
-      padding-bottom: 190px; } }
+      padding-top: 100px;
+      padding-bottom: 100px; } }
   .hero h1, .hero p, .hero .btn {
     margin-bottom: 28px; }
   .hero h1 {
@@ -14188,6 +14194,31 @@ address {
       position: absolute;
       left: -156px;
       top: 0; } }
+
+.contact-row .contact-bg {
+  background-color: #AF272F;
+  color: white;
+  min-height: 200px; }
+
+.contact-row .contact-title {
+  background-color: #F3F6F7;
+  color: #333333; }
+  .contact-row .contact-title img {
+    margin-left: -14px;
+    height: 200px; }
+
+.contact-row .contacts-title {
+  margin-top: 48px; }
+  .contact-row .contacts-title h3 {
+    display: inline;
+    padding-right: 20px;
+    border-right: 1px solid #F3F6F7; }
+  .contact-row .contacts-title .icon {
+    display: inline;
+    top: 12px;
+    position: relative;
+    margin-right: 40px;
+    margin-left: 10px; }
 
 .x-out-container {
   position: relative; }
@@ -14456,8 +14487,8 @@ footer {
   border-radius: 8px;
   padding: 20px;
   margin: 0 auto;
-  width: 90%;
-  text-align: center; }
+  text-align: center;
+  margin-right: 26px; }
   .arrow-box .timeline-title {
     margin: 0; }
 
