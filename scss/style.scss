@@ -17,6 +17,9 @@ li {
 }
 svg {
   fill: transparent;
+  path, circle, line {
+    fill: currentColor;
+  }
 }
 address {
   margin: 0;
@@ -508,6 +511,7 @@ footer {
 .offerings {
   .icon-circle {
     background: $brand-green;
+    color: #fff;
   }
 }
 .sell {
@@ -573,10 +577,10 @@ footer {
 .visible {
   visibility:visible !important;
 }
-
 .connectors {
   margin-top: -30px;
   margin-bottom: -16px;
+  width: 83%;
 }
 
 .services-offerings {
@@ -591,44 +595,43 @@ footer {
       svg {
         transform: rotate(0deg);
       }
-      use.serv-off-arrow {
-        fill: $brand-gray;
+      use.serv-off-arrow path {
+        fill: $dark-gray !important;
       }
     }
     .serv-off-title-text {
       position: relative;
-      padding-right: 50px;
-      min-height: 50px;
+      padding-right: 40px;
+      min-height: 40px;
     }
     svg {
       float: right;
-      width: 50px;
-      height: 50px;
+      width: 40px;
+      height: 40px;
       transform: rotate(90deg);
       transition: transform .25s;
       position: absolute;
       top: 0;
       right: 0;
-      margin-top: -15px;
+      margin-top: -6px;
     }
-    use.serv-off-arrow {
+    use.serv-off-arrow path {
       fill: $brand-green;
       transition: fill .25s;
     }
   }
   .serv-off-desc {
-    font-size: 70%;
-    margin-left: 10px;
+    font-size: 16px;
     color: $dark-gray;
     border-bottom: 1px solid $brand-gray;
     padding-bottom: 20px;
   }
 }
 svg path {
-  fill: inherit;
+  //fill: inherit;
 }
 svg g {
-  fill: inherit;
+  //fill: inherit;
 }
 
 .partner-logo {

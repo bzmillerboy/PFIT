@@ -61,7 +61,7 @@ get_header(); ?>
                         <h4 class="serv-off-title-text">
                             HIPAA Risk Assessments
                             <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
-                              <use class="serv-off-arrow" xlink:href="#icon-arrow-right" x="0" y="0" />
+                              <use class="serv-off-icon" xlink:href="#icon-arrow-right" x="0" y="0" />
                             </svg>
                         </h4>
                     </a>
@@ -132,7 +132,6 @@ get_header(); ?>
             </div>
         </div>
     </section>
-
     		</main><!-- #main -->
     	</div><!-- #primary -->
 <?php get_footer(); ?>

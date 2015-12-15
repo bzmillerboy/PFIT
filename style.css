@@ -13908,6 +13908,8 @@ li {
 
 svg {
   fill: transparent; }
+  svg path, svg circle, svg line {
+    fill: currentColor; }
 
 address {
   margin: 0; }
@@ -14339,7 +14341,8 @@ footer {
   padding-top: 4px; }
 
 .offerings .icon-circle {
-  background: #78BE20; }
+  background: #78BE20;
+  color: #fff; }
 
 .sell {
   background-size: cover;
@@ -14392,7 +14395,8 @@ footer {
 
 .connectors {
   margin-top: -30px;
-  margin-bottom: -16px; }
+  margin-bottom: -16px;
+  width: 83%; }
 
 .services-offerings .serv-off-title {
   color: #78BE20;
@@ -14403,38 +14407,31 @@ footer {
       color: #818181; }
     .services-offerings .serv-off-title.collapsed svg {
       transform: rotate(0deg); }
-    .services-offerings .serv-off-title.collapsed use.serv-off-arrow {
-      fill: #F3F6F7; }
+    .services-offerings .serv-off-title.collapsed use.serv-off-arrow path {
+      fill: #9A9A9A !important; }
   .services-offerings .serv-off-title .serv-off-title-text {
     position: relative;
-    padding-right: 50px;
-    min-height: 50px; }
+    padding-right: 40px;
+    min-height: 40px; }
   .services-offerings .serv-off-title svg {
     float: right;
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
     transform: rotate(90deg);
     transition: transform .25s;
     position: absolute;
     top: 0;
     right: 0;
-    margin-top: -15px; }
-  .services-offerings .serv-off-title use.serv-off-arrow {
+    margin-top: -6px; }
+  .services-offerings .serv-off-title use.serv-off-arrow path {
     fill: #78BE20;
     transition: fill .25s; }
 
 .services-offerings .serv-off-desc {
-  font-size: 70%;
-  margin-left: 10px;
+  font-size: 16px;
   color: #9A9A9A;
   border-bottom: 1px solid #F3F6F7;
   padding-bottom: 20px; }
-
-svg path {
-  fill: inherit; }
-
-svg g {
-  fill: inherit; }
 
 .partner-logo {
   margin-bottom: 56px; }
