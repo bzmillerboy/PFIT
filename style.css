@@ -13903,7 +13903,7 @@ Copyright (c) 2014 Daniel Eden
 html, body {
   height: 100%; }
 
-p {
+.sm {
   font-size: 16px; }
 
 li {

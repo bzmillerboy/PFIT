@@ -23,7 +23,7 @@ get_header(); ?>
 			        <div class="container">
 			            <h1 class="brand">We USE technology to remove barriers<br class="visible-lg"> between physicians and patients.</h1>
 			            <p>Path forward empowers independent physician practices with technology-driven solutions that free them to focus on patient care.</p>
-			            <a class="btn btn-fill btn-brand-orange cc-active" href="">Learn More</a>
+			            <a class="btn btn-fill btn-brand-orange cc-active" href="/services">Learn More</a>
 			        </div>
 			    </section>
 
@@ -82,7 +82,7 @@ get_header(); ?>
 			                    </div>
 			                    <div class="col-ser">
 			                        <a href="/clinical-documentation">
-			                            <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/network.svg" />
+			                            <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/Network.svg" />
 			                            <h3 class="ser-title">Clinical Documentation</h3>
 			                            <p class="ser-desc">Traditional dictation meets discrete data</p>
 			                            <span class="ser-link">Learn More</span>
@@ -98,7 +98,7 @@ get_header(); ?>
 			                    </div>
 			                    <div class="col-ser">
 			                        <a href="/patient-contact-center">
-			                            <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/headset.svg" />
+			                            <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/Headset.svg" />
 			                            <h3 class="ser-title">Patient Contact Center</h3>
 			                            <p class="ser-desc">Revolutionizing how patients talk to their physicians</p>
 			                            <span class="ser-link">Learn More</span>

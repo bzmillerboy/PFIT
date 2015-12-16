@@ -47,21 +47,21 @@ get_header(); ?>
                       <use class="Circuitboard" xlink:href="#Circuitboard" x="0" y="0" />
                     </svg>
                     <h4>Complete IT Service</h4>
-                    <p class="text-muted">For many of our clients we serve as their complete IT team, from CIO to boots on the ground. These clients effectively “outsource” all their IT needs to our team, and we manage the rest. </p>
+                    <p class="text-muted sm">For many of our clients we serve as their complete IT team, from CIO to boots on the ground. These clients effectively “outsource” all their IT needs to our team, and we manage the rest. </p>
                 </div>
                 <div class="col-sm-4 text-center">
                     <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
                       <use class="Businessman" xlink:href="#Businessman" x="0" y="0" />
                     </svg>
                     <h4>Partnership</h4>
-                    <p class="text-muted">Already have boots on the ground? We love to work with existing internal IT departments to help where we are needed, whether that be with 24/7 desk support, IT consulting, or application performance management. </p>
+                    <p class="text-muted sm">Already have boots on the ground? We love to work with existing internal IT departments to help where we are needed, whether that be with 24/7 desk support, IT consulting, or application performance management. </p>
                 </div>
                 <div class="col-sm-4 text-center">
                     <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
                       <use class="Phonesignal" xlink:href="#Phonesignal" x="0" y="0" />
                     </svg>
                     <h4>Project Specific Support</h4>
-                    <p class="text-muted">Many healthcare organizations have great internal IT teams or existing vendor partnerships and tap us for extra capacity or our amazing healthcare expertise and experience on a project basis. </p>
+                    <p class="text-muted sm">Many healthcare organizations have great internal IT teams or existing vendor partnerships and tap us for extra capacity or our amazing healthcare expertise and experience on a project basis. </p>
                 </div>
             </div>
         </div>
