@@ -29,6 +29,9 @@ svg {
 address {
   margin: 0;
 }
+img {
+  max-width: 100%;
+}
 .vert-center {
   position: absolute;
   left: 50%;
@@ -371,11 +374,15 @@ address {
   position: relative;
   .x-out {
     position: absolute;
-    top: 10%;
-    left: 0;
-    width: 45%;
+    top: 7%;
+    left: 0px;
+    width: 100px;
     transform: translateX(50%);
   }
+  .x-short {
+    transform: translateX(15%);
+  }
+
 }
 
 /*******************************

@@ -419,68 +419,7 @@ get_header(); ?>
         </div>
     </section>
 
-    <section class="section">
-        <div class="map">
-            <div class="container-fluid hard-right">
-                <div class="row">
-                    <div class="col-xs-8 col-sm-5 col-md-3 col-lg-4 arrow-container">
-                        <div class="row">
-                            <div class="col-sm-12 push-bottom">
-                                <div class="arrow-box">
-                                    <h3 class="timeline-title brand editable">Cincinnati</h3>
-                                    <address>
-                                        6900 Steger Dr<br>
-                                        Cincinnati, OH 45237<br>
-                                        (513) 924-5500
-                                    </address>
-                                </div>
-                            </div>
-                            <div class="col-sm-12 push-bottom">
-                                <div class="arrow-box">
-                                    <h3 class="timeline-title brand editable">Columbus</h3>
-                                    <address>
-                                        6900 Steger Dr<br>
-                                        Cincinnati, OH 45237<br>
-                                        (513) 924-5500
-                                    </address>
-                                </div>
-                            </div>
-                            <div class="col-sm-12 push-bottom">
-                                <div class="arrow-box">
-                                    <h3 class="timeline-title brand editable">Indianapolis</h3>
-                                    <address>
-                                        6900 Steger Dr<br>
-                                        Cincinnati, OH 45237<br>
-                                        (513) 924-5500
-                                    </address>
-                                </div>
-                            </div>
-                            <div class="col-sm-12 push-bottom">
-                                <div class="arrow-box">
-                                    <h3 class="timeline-title brand editable">Jacksonville</h3>
-                                    <address>
-                                        6900 Steger Dr<br>
-                                        Cincinnati, OH 45237<br>
-                                        (513) 924-5500
-                                    </address>
-                                </div>
-                            </div>
-                            <div class="col-sm-12">
-                                <div class="arrow-box">
-                                    <h3 class="timeline-title brand editable">Memphis</h3>
-                                    <address>
-                                        6900 Steger Dr<br>
-                                        Cincinnati, OH 45237<br>
-                                        (513) 924-5500
-                                    </address>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+	<?php get_template_part( 'includes/maps' ); ?>
 
     		</main><!-- #main -->
     	</div><!-- #primary -->

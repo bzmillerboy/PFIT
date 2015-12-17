@@ -14,21 +14,21 @@
                         <div class="col-sm-3">
                             <h4>Navigation</h4>
                             <ul class="list-unstyled">
-                                <li><a href="#">Home</a></li>
-                                <li><a href="#">Services</a></li>
-                                <li><a href="#">Company</a></li>
-                                <li><a href="#">Careers</a></li>
-                                <li><a href="#">Contact</a></li>
+                                <li><a href="<?php echo home_url(); ?>">Home</a></li>
+                                <li><a href="/services">Services</a></li>
+                                <li><a href="/company">Company</a></li>
+                                <li><a href="/careers">Careers</a></li>
+                                <li><a href="/contact">Contact</a></li>
                             </ul>
                         </div>
                         <div class="col-sm-3">
                             <h4>Services</h4>
                             <ul class="list-unstyled">
-                                <li><a href="#">Managed IT</a></li>
-                                <li><a href="#">Advisory</a></li>
-                                <li><a href="#">Patient Contact Center</a></li>
-                                <li><a href="#">Compliance &amp; Security</a></li>
-                                <li><a href="#">Clinical Documentation</a></li>
+                                <li><a href="/managed-it">Managed IT</a></li>
+                                <li><a href="/advisory">Advisory</a></li>
+                                <li><a href="/patient-contact-center">Patient Contact Center</a></li>
+                                <li><a href="/compliance-and-security">Compliance &amp; Security</a></li>
+                                <li><a href="/clinical-documentation">Clinical Documentation</a></li>
                             </ul>
                         </div>
                         <div class="col-sm-3">
@@ -44,7 +44,7 @@
                 <div class="row">
                     <div class="col-sm-12">
                        <p>
-                           &copy; 2015 Path Forward IT | <a href="#">Terms of Use</a> | <a href="#">Privacy and Security Statement</a>
+                           &copy; 2015 Path Forward | <a href="#">Terms of Use</a> | <a href="#">Privacy and Security Statement</a>
                        </p>
                    </div>
                </div>

@@ -42,6 +42,11 @@ get_header(); ?>
     <section class="section section-perfect">
         <div class="container">
             <div class="row">
+				<div class="col-sm-8 col-sm-offset-2 text-center">
+					<h3 class="brand">SOLUTIONS TAILORED JUST FOR YOU</h3>
+					<p>We provide a range of engagement levels that can fill in the gaps for clients with sophisticated IT teams, or provide the day-to-day support and management for offices that need a little more help.</p>
+                    <br>
+                </div>
                 <div class="col-sm-4 text-center">
                     <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
                       <use class="Circuitboard" xlink:href="#Circuitboard" x="0" y="0" />

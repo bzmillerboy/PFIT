@@ -21,8 +21,9 @@ get_header(); ?>
 
     <section class="hero careers">
         <div class="container">
-            <h1 class="brand">
-                Careers <s>Jobs</s>
+			<h1 class="brand">
+				<span class="x-out-container">Jobs<img class="x-out x-short" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/x.png" /></span>
+                Careers
             </h1>
             <p>Path Forward is a team of individuals striving for something better. We believe that the strength, experiences and values of every one of our team members set us apart from other IT vendors. As we expand, so does our need for exceptionally talented employees.</p>
         </div>
@@ -63,7 +64,7 @@ get_header(); ?>
                     " />
                     <h2 class="text-center brand">Want something better?</h2>
                     <p>If you believe what we believe we hope you will consider joining our team.</p>
-                    <a href="#" class="btn btn-fill btn-brand-orange editable">View Opportunities</a>
+                    <a href="https://workforcenow.adp.com/jobs/apply/posting.html?client=pathfwd&ccId=19000101_000001&type=JS&lang=en_US" target="_blank" class="btn btn-fill btn-brand-orange editable">View Opportunities</a>
                 </div>
             </div>
         </div>
