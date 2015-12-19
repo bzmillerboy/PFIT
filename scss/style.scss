@@ -784,3 +784,53 @@ svg g {
   96% { transform: translate(-50%,    0%); opacity: 1; }
   100%{ transform: translate(-50%,  100%); opacity: 0; }
 }
+
+
+ul.company-photos {
+  margin-left: 2%;
+  padding: 0;
+  color: #ffffff;
+}
+ul.company-photos li {
+  width: 48%;
+  list-style: none;
+  float: left;
+  margin: 0 2% 15px 0;
+  position: relative;
+  @media (min-width: $screen-sm-min) {
+    width: 23%;
+  }
+  @media (min-width: $screen-md-min) {
+    width: 18%;
+  }
+}
+ul.company-photos li .photo {
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 8px;
+}
+ul.company-photos li .photo img {
+  vertical-align: bottom;
+  display: inline-block;
+}
+
+ul.company-photos li .photo .overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 100%;
+  text-align: center;
+  background: rgba(255,143,28,0.85);
+  transition-duration: 0.5s;
+  transition-timing-function: ease;
+}
+ul.company-photos li:hover .overlay {
+  top: 0;
+}
+ul.company-photos li .photo h4 {
+  margin-top: 40px;
+  margin-bottom: 0;
+  @media (min-width: $screen-md-min) {
+    margin-top: 50px;
+  }
+}
