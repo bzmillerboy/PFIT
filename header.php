@@ -18,6 +18,8 @@
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 <!--Favicon-->
 <link rel="shortcut icon" href="<?php bloginfo( 'template_directory' ); ?>/favicon.ico">
+
+<script src="<?php bloginfo( 'template_directory' ); ?>/assets/js/jquery-1.10.2.js" type="text/javascript"></script>
 <?php wp_head(); ?>
 </head>
 

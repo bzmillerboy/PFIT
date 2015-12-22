@@ -62,37 +62,11 @@ get_header(); ?>
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
+
+
                     <form role="form">
                         <div class="row">
-                            <div class="col-sm-6">
-                                <div class="form-group">
-                                    <input type="text" class="form-control input-lg" id="firstname" name="firstname" placeholder="First Name" required>
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="form-group">
-                                    <input type="text" class="form-control input-lg" id="lastname" name="lastname" placeholder="Last Name" required>
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="form-group">
-                                    <input type="email" class="form-control input-lg" id="email" name="email" placeholder="Email" required>
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="form-group">
-                                    <input type="tel" class="form-control input-lg" id="phone" name="phone" placeholder="Phone Number" required>
-                                </div>
-                            </div>
-                            <div class="col-sm-12">
-                                <div class="form-group">
-                                <textarea class="form-control input-lg" type="textarea" id="message" placeholder="Message" maxlength="140" rows="7"></textarea>
-                                </div>
-                            </div>
-                            <div class="col-sm-12">
-                                <button type="button" id="submit" name="submit" class="btn btn-lg btn-primary pull-right">Submit Form</button>
-                                <img class="recaptcha" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/recaptcha.png" />
-                            </div>
+                            <?php echo do_shortcode( '[contact-form-7 id="65" title="Contact Us"]' ); ?>
                         </div>
                     </form>
                </div>
