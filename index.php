@@ -32,7 +32,7 @@ get_header(); ?>
 			            <div class="row">
 			                <div class="col-md-6">
 			                    <h3>BECAUSE PATIENTS NEED THEIR DOCTORS MORE THAN EVER.</h3>
-													<p class="text-muted">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p>
+													<p class="text-muted">Placeholder Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p>
 			                </div>
 			                <div class="col-md-6">
 			                    <div class="embed-responsive embed-responsive-16by9">
