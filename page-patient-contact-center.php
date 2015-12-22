@@ -49,6 +49,8 @@ get_header(); ?>
         </div>
     </section>
 
+	<?php get_template_part( 'includes/facts' ); ?>
+
     <section class="section pad-section services-offerings offerings section-perfect">
         <div class="container">
             <div class="row">

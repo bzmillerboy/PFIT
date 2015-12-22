@@ -27,15 +27,20 @@ get_header(); ?>
 			        </div>
 			    </section>
 
-			    <section class="section pad-section">
-			            <div class="container">
-			                <div class="row">
-			                    <div class="col-sm-8 col-sm-offset-2 text-center">
-			                        <h3>BECAUSE PATIENTS NEED THEIR DOCTORS MORE THAN EVER.</h3>
-															<p class="text-muted">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+					<section class="section pad-section">
+			        <div class="container">
+			            <div class="row">
+			                <div class="col-md-6">
+			                    <h3>BECAUSE PATIENTS NEED THEIR DOCTORS MORE THAN EVER.</h3>
+													<p class="text-muted">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p>
+			                </div>
+			                <div class="col-md-6">
+			                    <div class="embed-responsive embed-responsive-16by9">
+			                        <iframe class="embed-responsive-item" src="//www.youtube.com/v/gJot_8dm3fY?color2=FBE9EC&amp;rel=0&amp;hd=1&amp;showsearch=0&amp;showinfo=0&amp;controls=0&amp;version=3&amp;modestbranding=1"></iframe>
 			                    </div>
 			                </div>
 			            </div>
+			        </div>
 			    </section>
 
 			    <section class="hero unity">

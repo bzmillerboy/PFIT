@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>PCnetwork</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Tech_sliced" sketch:type="MSLayerGroup" transform="translate(-840.000000, -360.000000)"></g>
+        <g id="Imported-Layers" sketch:type="MSLayerGroup" transform="translate(-839.000000, -358.000000)" fill="#535353">
+            <path d="M874,394 L898,394 L898,410 L874,410 L874,394 Z M876,408 L896,408 L896,396 L876,396 L876,408 Z" id="Fill-240" sketch:type="MSShapeGroup"></path>
+            <path d="M882,411 L890,411 L890,413 L882,413 L882,411 Z" id="Fill-241" sketch:type="MSShapeGroup"></path>
+            <path d="M840,394 L864,394 L864,410 L840,410 L840,394 Z M842,408 L862,408 L862,396 L842,396 L842,408 Z" id="Fill-242" sketch:type="MSShapeGroup"></path>
+            <path d="M848,411 L856,411 L856,413 L848,413 L848,411 Z" id="Fill-243" sketch:type="MSShapeGroup"></path>
+            <path d="M857,363 L881,363 L881,379 L857,379 L857,363 Z M859,377 L879,377 L879,365 L859,365 L859,377 Z" id="Fill-244" sketch:type="MSShapeGroup"></path>
+            <path d="M865,380 L873,380 L873,382 L865,382 L865,380 Z" id="Fill-245" sketch:type="MSShapeGroup"></path>
+            <path d="M851,389.5 L853,389.5 L853,393 L851,393 L851,389.5 Z" id="Fill-246" sketch:type="MSShapeGroup"></path>
+            <path d="M868,383 L870,383 L870,388 L868,388 L868,383 Z" id="Fill-247" sketch:type="MSShapeGroup"></path>
+            <path d="M885,389.5 L887,389.5 L887,393 L885,393 L885,389.5 Z" id="Fill-248" sketch:type="MSShapeGroup"></path>
+            <path d="M851,388 L887,388 L887,390 L851,390 L851,388 Z" id="Fill-249" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
