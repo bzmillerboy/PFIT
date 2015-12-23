@@ -31,7 +31,7 @@ get_header(); ?>
 			        <div class="container">
 			            <div class="row">
 			                <div class="col-md-6">
-			                    <h2 class="brand">PATIENTS NEED THEIR DOCTORS MORE THAN EVER.</h2>
+			                    <h3>PATIENTS NEED THEIR DOCTORS MORE THAN EVER.</h3>
 									<p class="text-muted">From healthcare reform to new compensation models, it seems the only constant in healthcare is change. That’s why physician practices around the country rely on Path Forward for technology-driven solutions that free them to focus on patient care.</p>
 			                </div>
 			                <div class="col-md-6">
@@ -47,7 +47,7 @@ get_header(); ?>
 			        <div class="container">
 			            <div class="row">
 			                <div class="col-sm-6">
-			                    <h2 class="brand">BE STRONGER, TOGETHER.</h2>
+			                    <h3 class="brand">BE STRONGER, TOGETHER.</h3>
 			                    <p>We’ve worked alongside thousands of providers around the country, and have learned that when it comes to today’s healthcare challenges, physician practices are more alike than they are different. That’s why we share innovation, best practices and lessons-learned for solutions that are just better.</p>
 			                </div>
 			            </div>
