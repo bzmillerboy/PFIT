@@ -31,7 +31,7 @@ get_header(); ?>
             <div class="row">
                 <div class="col-sm-8 col-sm-offset-2 text-center">
                     <h3>WE’RE PROUD OF WHAT MAKES US UNIQUE.</h3>
-					<p class="text-muted">We were founded in 2002 with the specific mission of making IT work better for physician practices. We combine practical, hands-on experience-earned—through our daily support of thousands of physicians’ IT needs across more than twenty specialities—with finely honed strategic and unbiased services. Our mission has expanded to using our technology, application and operational know-how to serve our clients with new, creative services.</p>
+					<p class="text-muted">We were founded in 2002 with the specific mission of making IT work better for physician practices. We combine practical, hands-on experience—earned through our daily support of thousands of physicians’ IT needs across more than twenty specialities—with finely honed strategic and unbiased services. Our mission has expanded to using our technology, application and operational know-how to serve our clients with new, creative services.</p>
                 </div>
             </div>
         </div>
