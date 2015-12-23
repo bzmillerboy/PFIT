@@ -47,7 +47,7 @@ get_header(); ?>
 			        <div class="container">
 			            <div class="row">
 			                <div class="col-sm-6">
-			                    <h3 class="brand">BE STRONGER, TOGETHER.</h3>
+			                    <h2 class="brand">BE STRONGER, TOGETHER.</h2>
 			                    <p>We’ve worked alongside thousands of providers around the country, and have learned that when it comes to today’s healthcare challenges, physician practices are more alike than they are different. That’s why we share innovation, best practices and lessons-learned for solutions that are just better.</p>
 			                </div>
 			            </div>
