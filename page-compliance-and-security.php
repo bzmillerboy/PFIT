@@ -25,7 +25,7 @@ get_header(); ?>
                 COMPLIANCE =
                 <span class="x-out-container">BURDEN<img class="x-out" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/x.png" /></span> RESPONSIBILITY
             </h1>
-            <p>Maybe it's just us, but we feel like people are looking at HIPAA compliance all wrong. This isn't a burden, this is a responsibility. A commitment to patients who trust you with their care that you will take their information, their circumstances and private health matters seriously and do your best to protect them.</p>
+            
         </div>
     </section>
 
@@ -33,11 +33,22 @@ get_header(); ?>
         <div class="container">
             <div class="row">
                 <div class="col-sm-8 col-sm-offset-2 text-center">
-                    <h3>21st CENTURY EXPECTATIONS.</h3>
+                    <h3>PROTECTING WHAT MATTERS.</h3>
+                    <p class="text-muted">Maybe it's just us, but we feel like many people are looking at HIPAA compliance all wrong. It’s not simply a “burden,” it’s a responsibility. It’s a commitment to patients who trust you with their care that you will take their information, circumstances and private health matters seriously—and do your best to protect them.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section class="section pad-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 col-sm-offset-2 text-center">
+                    <h3>21st CENTURY EXPECTATIONS</h3>
                     <p>
                         <em>...Like seatbelts in cars.</em>
                     </p>
-                    <p class="text-muted">It became a burden because most of our competitors approach it that way. Price gouging - fear sales - complicated products services with no endpoint - no practical day to day guidance on how to operationalize HIPAA compliance. HIPAA compliance should be part of what you do every day - not something you do once a year.</p>
+                    <p class="text-muted">In this day and age, HIPAA compliance should be part of what you do every day—not something you do once a year. It sometimes feels like a burden because most of our competitors approach it with price gouging, fear-based sales, and complicated services with no clear endpoint. Not at Path Forward. Our practical, day-to-day guidance provides what you need to operationalize HIPAA compliance practically.</p>
                 </div>
             </div>
         </div>
@@ -59,43 +70,32 @@ get_header(); ?>
                 <div class="col-sm-12 col-md-6">
                     <a class="serv-off-title collapsed" href="#collapseOff1" data-toggle="collapse">
                         <h4 class="serv-off-title-text">
-                            HIPAA Risk Assessments
+                            HIPAA Risk Assessment & Remediation Services
                             <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
                               <use class="serv-off-icon" xlink:href="#icon-arrow-right" x="0" y="0" />
                             </svg>
                         </h4>
                     </a>
                     <div class="collapse" id="collapseOff1">
-                        <p class="serv-off-desc">Nobody likes them but they are necessary. Think home inspection when you buy a house… you just need to know and if you don't, you are being negligent. Our team provides exceptional assessments to our clients at reasonable costs. Our reports are actionable and easy to understand to ensure you and your IT Team have the ability to remediate risks without a Shepard guide.</p>
+                        <p class="serv-off-desc">Our team provides exceptional assessments at reasonable costs. Our reports are actionable and easy to understand, ensuring that you have the ability to remediate risks without a 
+shepherd guide.</p>
                     </div>
 
                     <a class="serv-off-title collapsed" href="#collapseOff2" data-toggle="collapse">
                         <h4 class="serv-off-title-text">
-                            Policies and Procedure Development
+                            Policies & Procedure Development
                             <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
                               <use class="serv-off-arrow" xlink:href="#icon-arrow-right" x="0" y="0" />
                             </svg>
                         </h4>
                     </a>
                     <div class="collapse" id="collapseOff2">
-                        <p class="serv-off-desc">Our team can help you first by giving you a realistic starting point to work from. Our experts have drafted hundreds of policies to meet the unique needs of our clients and we can do the same for you.</p>
+                        <p class="serv-off-desc">Whether you need help improving your security program, building it from the ground up, or just establishing a realistic starting point, our experts have drafted hundreds of policies to meet the unique needs of our clients—and we can do the same for you.</p>
                     </div>
 
                 </div>
                 <div class="col-sm-12 col-md-6">
                     <a class="serv-off-title collapsed" href="#collapseOff4" data-toggle="collapse">
-                        <h4 class="serv-off-title-text">
-                            Business Continuity and Disaster Recovery
-                            <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
-                              <use class="serv-off-arrow" xlink:href="#icon-arrow-right" x="0" y="0" />
-                            </svg>
-                        </h4>
-                    </a>
-                    <div class="collapse" id="collapseOff4">
-                        <p class="serv-off-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sapien eu lorem faucibus cursus at sed lectus. Nam interdum egestas imperdiet. </p>
-                    </div>
-
-                    <a class="serv-off-title collapsed" href="#collapseOff5" data-toggle="collapse">
                         <h4 class="serv-off-title-text">
                             Threat Management
                             <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -103,28 +103,21 @@ get_header(); ?>
                             </svg>
                         </h4>
                     </a>
+                    <div class="collapse" id="collapseOff4">
+                        <p class="serv-off-desc">A realistic and cost-effective Information Security program requires proactive monitoring and management of everyday vulnerabilities. Path Forward utilizes best practice recommendations, as well as an offensive and defensive approach, to keep up with a rapidly evolving security landscape. Our unique experience serving both IT and security needs keeps our clients’ security posture strong, and their mind at peace.</p>
+                    </div>
+
+                    <a class="serv-off-title collapsed" href="#collapseOff5" data-toggle="collapse">
+                        <h4 class="serv-off-title-text">
+                            Business Continuity & Disaster Recovery Planning
+                            <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
+                              <use class="serv-off-arrow" xlink:href="#icon-arrow-right" x="0" y="0" />
+                            </svg>
+                        </h4>
+                    </a>
                     <div class="collapse" id="collapseOff5">
-                        <p class="serv-off-desc">Dealing with modern security threats requires new tactics</p>
-                        <ul class="serv-off-desc">
-                            <li>
-                                Security Risk Assessment &amp; Remediation
-                            </li>
-                            <li>
-                                Technical Security Settings
-                            </li>
-                            <li>
-                                HIPAA/HITECH Compliance
-                            </li>
-                            <li>
-                                Security Awareness &amp; HIPAA Training
-                            </li>
-                            <li>
-                                Business Continuity & Disaster Recovery Planning
-                            </li>
-                            <li>
-                                Information Security
-                            </li>
-                        </ul>
+                        <p class="serv-off-desc">Preparing for setbacks, or even worst-case scenarios, often falls at the bottom of priority lists. With our results-driven, practical approach, your office can feel confident about being prepared for whatever comes its way.</p>
+                        
 
                     </div>
 
