@@ -21,9 +21,8 @@ get_header(); ?>
     <section class="hero company">
         <div class="container">
             <h1 class="brand">
-                WE ARE UNIQUE AND DEFY CATEGORIZATION
+                DEFYING CATEGORIZATION SINCE 2002.
             </h1>
-            <p>We were founded in 2002 with the specific mission of making IT work better for independent physicians practices. We combine practical, hands-on experience--earned through our daily support of thousands of physicians’ IT needs across more than twenty specialities--with finely honed strategic and unbiased services. Our mission has expanded to using our technology, application and operational  know-how to better serve our clients with new creative services.</p>
         </div>
     </section>
 
@@ -31,8 +30,8 @@ get_header(); ?>
         <div class="container">
             <div class="row">
                 <div class="col-sm-8 col-sm-offset-2 text-center">
-                    <h3>Simply put - there is no one else like us and we are very proud of that.</h3>
-					<p class="text-muted">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p>
+                    <h3>WE’RE PROUD OF WHAT MAKES US UNIQUE.</h3>
+					<p class="text-muted">We were founded in 2002 with the specific mission of making IT work better for physician practices. We combine practical, hands-on experience-earned—through our daily support of thousands of physicians’ IT needs across more than twenty specialities—with finely honed strategic and unbiased services. Our mission has expanded to using our technology, application and operational know-how to serve our clients with new, creative services.</p>
                 </div>
             </div>
         </div>
@@ -104,7 +103,7 @@ get_header(); ?>
                 <div class="row">
                     <div class="col-xs-12 col-sm-8 col-sm-offset-2 text-center">
                         <h2 class="brand">Meet the team</h2>
-                        <p> Our strength is our team. We live our core values. We serve each other, our community and our clients with an unrelenting passion. We are not perfect  - we listen intently, admit when we make mistakes and grow stronger in the process. </p>
+                        <p>Our strength is our team. We live our core values. We serve each other, our community and our clients with an unrelenting passion. We listen intently, admit when we make mistakes and grow stronger in the process.</p>
                     </div>
                 </div>
                 <div class="row">
