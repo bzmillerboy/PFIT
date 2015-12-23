@@ -22,7 +22,7 @@ get_header(); ?>
 			    <section class="hero homepage">
 			        <div class="container">
 			            <h1 class="brand">We USE technology to remove barriers<br class="visible-lg"> between physicians and patients.</h1>
-			            <p>Path forward empowers physician practices with technology-driven solutions that free them to focus on patient care.</p>
+			            
 			            <a class="btn btn-fill btn-brand-orange cc-active" href="/services">Learn More</a>
 			        </div>
 			    </section>
@@ -31,8 +31,8 @@ get_header(); ?>
 			        <div class="container">
 			            <div class="row">
 			                <div class="col-md-6">
-			                    <h3>BECAUSE PATIENTS NEED THEIR DOCTORS MORE THAN EVER.</h3>
-													<p class="text-muted">Placeholder Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p>
+			                    <h3>PATIENTS NEED THEIR DOCTORS MORE THAN EVER.</h3>
+									<p class="text-muted">From healthcare reform to new compensation models, it seems the only constant in healthcare is change. That’s why physician practices around the country rely on Path Forward for technology-driven solutions that free them to focus on patient care.</p>
 			                </div>
 			                <div class="col-md-6">
 			                    <div class="embed-responsive embed-responsive-16by9">
@@ -47,8 +47,8 @@ get_header(); ?>
 			        <div class="container">
 			            <div class="row">
 			                <div class="col-sm-6">
-			                    <h2 class="brand">BE STRONGER, TOGETHER</h2>
-			                    <p>We’ve worked alongside thousands of providers around the country, and have learned a thing or two along the way. When it comes to today’s healthcare challenges, independent physicians practices are more alike than they are different. We believe in sharing innovation, best practices and lessons-learned for solutions that are just better.</p>
+			                    <h2 class="brand">BE STRONGER, TOGETHER.</h2>
+			                    <p>We’ve worked alongside thousands of providers around the country, and have learned that when it comes to today’s healthcare challenges, physician practices are more alike than they are different. That’s why we share innovation, best practices and lessons-learned for solutions that are just better.</p>
 			                </div>
 			            </div>
 			        </div>
@@ -64,7 +64,7 @@ get_header(); ?>
 			                               <h2><span class="italic">Put simply,</span> <span class="brand">WE GET IT</span></h2>
 			                            </div>
 			                        </div>
-			                       <p class="id-text">Independent physician offices face unprecedented challenges, from regulatory and security pressures, to greater competition from mammoth hospital systems, to just getting home at a reasonable time with EHR frustrations slowing you down. We get that technology has to work harder than ever so that you can “do more with less”. Path Forward provides value-added services that helps doctors do what they do best: serve their patients.</p>
+			                       <p class="id-text">Physician practices face unprecedented challenges, from regulatory and security pressures to simply getting home at a reasonable hour without your EHR slowing you down. We understand that technology has to work harder than ever so you can “do more with less.” Path Forward provides value-added services that help doctors do what they do best: serve their patients.</p>
 			                   </div>
 			               </div>
 			           </div>
@@ -82,8 +82,8 @@ get_header(); ?>
 			                      margin-bottom: -10px;
 			                    " />
 			                    <h2 class="text-center brand">Want to learn more?</h2>
-			                    <p class="text-left">Our services are unique and complex - please explore our site. The BEST way to understand what we do is to let us explain it to you. Don’t worry, we are friendly - we love to travel and visit new friends, or we are happy to setup a phone call or web meeting to explain more about what we do.</p>
-			                    <p class="text-left">Oh and by the way, we don't employ any sales people (not that we have a problem with sales) we grow by referral so we won't harass you after our first introduction.</p>
+			                    <p class="text-left">Please explore our site, and know that we’re always happy to schedule a brief call or travel to you to explain more about what we do. We’d love to get to know you and talk about how we’ve empowered other practices who might have been in a similar situation.</p>
+			                    <p class="text-left">Oh, and by the way, we don't employ salespeople (not that we have a problem with sales). We’ve always grown by referral, so you can rest assured we won't harass you after our first introduction.</p>
 			                    <a href="" class="btn btn-fill btn-brand-orange editable">Services Overview</a>
 			                </div>
 			            </div>
