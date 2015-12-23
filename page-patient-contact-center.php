@@ -89,17 +89,7 @@ get_header(); ?>
                         <p class="serv-off-desc">All physician information, scheduling preferences, location details and insurance plans are stored in a centralized system that’s constantly kept up-to-date—so <em>precisely</em> the right information is available to agents <em>instantly</em>.</p>
                     </div>
 
-                    <a class="serv-off-title collapsed" href="#collapseOff3" data-toggle="collapse">
-                        <h4 class="serv-off-title-text">
-                            Proprietary guided workflow technology.
-                            <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
-                              <use class="serv-off-arrow" xlink:href="#icon-arrow-right" x="0" y="0" />
-                            </svg>
-                        </h4>
-                    </a>
-                    <div class="collapse" id="collapseOff3">
-                        <p class="serv-off-desc">Our proprietary system analyzes all of your practice specifics and presents the information to the agent interactively, in real time.</p>
-                    </div>
+                    
 
                 </div>
                 <div class="col-sm-12 col-md-4">
@@ -138,6 +128,17 @@ get_header(); ?>
                     </a>
                     <div class="collapse" id="collapseOff7">
                         <p class="serv-off-desc">We offer individualized solutions with no retainer fees. You’re only charged when we start taking calls.</p>
+                    </div>
+                    <a class="serv-off-title collapsed" href="#collapseOff3" data-toggle="collapse">
+                        <h4 class="serv-off-title-text">
+                            Proprietary guided workflow technology.
+                            <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
+                              <use class="serv-off-arrow" xlink:href="#icon-arrow-right" x="0" y="0" />
+                            </svg>
+                        </h4>
+                    </a>
+                    <div class="collapse" id="collapseOff3">
+                        <p class="serv-off-desc">Our proprietary system analyzes all of your practice specifics and presents the information to the agent interactively, in real time.</p>
                     </div>
 
                     
