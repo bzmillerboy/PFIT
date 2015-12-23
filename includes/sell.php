@@ -26,7 +26,7 @@
 	                        <div class="card">
 	                            <div class="content">
 	                                <h5 class="card-title">Compassionate</h5>
-	                                <p class="sell-cont-text">We care about your patients like you do. Focusing only on healthcare - our team empathetically serves our clients so they can focus on patients.</p>
+	                                <p class="sell-cont-text">We care about your patients like you do. Focusing only on healthcare, our team empathetically serves our clients so they can focus on patients.</p>
 	                            </div>
 	                        </div>
 	                    </div>
@@ -41,7 +41,7 @@
 	                        <div class="card">
 	                            <div class="content">
 	                                <h5 class="card-title">Comprehensive</h5>
-	                                <p class="sell-cont-text">Single vendor with a deep bench. We have every resources your practice could need from HL7 experts to database analysts and systems engineers. You won't need another vendor for any technology need when working with Path Forward.</p>
+	                                <p class="sell-cont-text">We’re a single vendor with a deep bench. We have every resource your practice could need, from HL7 experts to database analysts and systems engineers. You won't need another vendor for any technology need when working with us.</p>
 	                            </div>
 	                        </div>
 	                    </div>
@@ -56,7 +56,7 @@
 	                        <div class="card">
 	                            <div class="content">
 	                                <h5 class="card-title">Creative</h5>
-	                                <p class="sell-cont-text">The answer to every IT challenge can't be to buy something, at least not in Healthcare. We tap our experience with similar organizations to bring creative solutions to our clients every day</p>
+	                                <p class="sell-cont-text">The answer to every IT challenge can't be just to buy something—at least not in healthcare. We leverage our experience with similar organizations to bring creative solutions to our clients every day.</p>
 	                            </div>
 	                        </div>
 	                    </div>
@@ -71,7 +71,7 @@
 	                        <div class="card">
 	                            <div class="content">
 	                                <h5 class="card-title">Charming</h5>
-	                                <p class="sell-cont-text">We aren't bragging here but we are the most non-"IT", IT people you will ever meet. We are fun to work with and explain things in terms you can understand. We are partners with our clients and enjoy long term relationships.</p>
+	                                <p class="sell-cont-text">We aren't bragging here, but we’re the most “non-IT” IT people you’ll ever meet. We’re fun to work with and can explain technical issues in non-technical terms. We are partners with our clients and enjoy long-term relationships.</p>
 	                            </div>
 	                        </div>
 	                    </div>
@@ -86,7 +86,7 @@
 	                        <div class="card">
 	                            <div class="content">
 	                                <h5 class="card-title">Communication</h5>
-	                                <p class="sell-cont-text">It's not what you say, it's how you say it! From timely ticket updates, agenda driven weekly project updates to  emergency response notifications - you always know what is going on, without having to ask for an update.</p>
+	                                <p class="sell-cont-text">It's not what you say, it's how you say it. From timely ticket updates to agenda-driven weekly project updates to emergency response notifications, you’ll always know what’s going on—without having to ask for an update.</p>
 	                            </div>
 	                        </div>
 	                    </div>

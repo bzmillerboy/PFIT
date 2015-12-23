@@ -22,9 +22,8 @@ get_header(); ?>
     <section class="hero managed-it">
         <div class="container">
             <h1 class="brand">
-                NO ONE EVER ACCOMPLISHED ANYTHING GREAT WITH MITTENS ON.
+                NOBODY’S ACCOMPLISHED ANYTHING GREAT WEARING MITTENS.
             </h1>
-            <p>There are a lot of qualified IT vendors out there, and we’re proud to be among them. So how do you pick one that’s best for your practice?</p>
         </div>
     </section>
 
@@ -33,7 +32,7 @@ get_header(); ?>
             <div class="row">
                 <div class="col-sm-8 col-sm-offset-2 text-center">
                     <h3>GET A VENDOR THAT FITS LIKE A GLOVE. </h3>
-                    <p class="text-muted"> We only serve independent physician practices, and we realize there’s no such thing as a one size fits all solution. So when it comes to your specific IT needs, we’ve got the dexterity to craft customized solutions that <em>truly fit</em>. </p>
+                    <p class="text-muted">We only serve physician practices, and we realize there’s no such thing as a one-size-fits-all solution. So when it comes to your specific IT needs, we’ve got the dexterity to craft customized solutions that truly fit. </p>
                 </div>
             </div>
         </div>
@@ -43,8 +42,8 @@ get_header(); ?>
         <div class="container">
             <div class="row">
 				<div class="col-sm-8 col-sm-offset-2 text-center">
-					<h3 class="brand">SOLUTIONS TAILORED JUST FOR YOU</h3>
-					<p>We provide a range of engagement levels that can fill in the gaps for clients with sophisticated IT teams, or provide the day-to-day support and management for offices that need a little more help.</p>
+					<h3 class="brand">SOLUTIONS TAILORED JUST FOR YOU.</h3>
+					<p>We provide a range of engagement levels that can fill in the gaps for clients with sophisticated IT teams, or provide full day-to-day support and management for offices that need more help.</p>
                     <br>
                 </div>
                 <div class="col-sm-4 text-center">
@@ -65,7 +64,7 @@ get_header(); ?>
                     <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
                       <use class="Phonesignal" xlink:href="#Phonesignal" x="0" y="0" />
                     </svg>
-                    <h4>Project Specific Support</h4>
+                    <h4>Project-Specific Support</h4>
                     <p class="text-muted sm">Many healthcare organizations have great internal IT teams or existing vendor partnerships and tap us for extra capacity or our amazing healthcare expertise and experience on a project basis. </p>
                 </div>
             </div>
@@ -109,7 +108,7 @@ get_header(); ?>
                         </h5>
                     </a>
                     <div class="collapse" id="collapseOff2">
-                        <p class="serv-off-desc">If you aren't familiar with the terms RTO and RPO you should just go ahead and call us now. Disaster Recovery and Business Continuity planning don’t have to cost a fortune and the reality is that many physician practices are not equipped to handle extended downtime situations. Our team can create real, tangible solutions to help you care for patients in the event of an emergency. </p>
+                        <p class="serv-off-desc">If you aren’t familiar with the terms RTO and RPO, you should just go ahead and call us now. Disaster Recovery and Business Continuity planning don’t have to cost a fortune, and the reality is that many physician practices are not equipped to handle extended-downtime situations. Our team can create practical solutions to help you care for patients in the event of an emergency.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-4">
@@ -122,12 +121,12 @@ get_header(); ?>
                         </h5>
                     </a>
                     <div class="collapse" id="collapseOff4">
-                        <p class="serv-off-desc">In healthcare wireless performance is critical to keeping your physicians running on time. Our team of experts will evaluate and configure your environment to keep Doctors and Patients connected and on time.</p>
+                        <p class="serv-off-desc">In healthcare, wireless performance is critical to keeping your physicians running on time. Our team of experts will evaluate and configure your environment to keep doctors and patients connected and on time.</p>
                     </div>
 
                     <a class="serv-off-title collapsed" href="#collapseOff5" data-toggle="collapse">
                         <h5 class="serv-off-title-text">
-                            Cloud
+                            Cloud Computing
                             <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
                               <use class="serv-off-arrow" xlink:href="#icon-arrow-right" x="0" y="0" />
                             </svg>
@@ -150,7 +149,7 @@ get_header(); ?>
                         </h5>
                     </a>
                     <div class="collapse" id="collapseOff3">
-                        <p class="serv-off-desc">Knowing what to purchase for your practice and when doesn't have to be like solving a puzzle. We provide unbiased recommendations based on our exclusive focus serving clients just like you. This ensure you have a clear plan on what technology investments need to be made to keep pace with your practices needs and when. </p>
+                        <p class="serv-off-desc">Knowing what to purchase for your practice and when doesn't have to be like solving a puzzle. We provide unbiased recommendations based on our exclusive focus serving clients just like you. This ensures you have a clear plan on what technology investments need to be made to keep pace with your practice’s needs, and when.</p>
                     </div>
                     <a class="serv-off-title collapsed" href="#collapseOff6" data-toggle="collapse">
                         <h5 class="serv-off-title-text">
