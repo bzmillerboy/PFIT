@@ -66,7 +66,7 @@ get_header(); ?>
 
                     <form role="form">
                         <div class="row">
-                            <?php echo do_shortcode( '[contact-form-7 id="65" title="Contact Us"]' ); ?>
+                            <?php echo do_shortcode( '[contact-form-7 id="4" title="Contact Us"]' ); ?>
                         </div>
                     </form>
                </div>
