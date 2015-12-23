@@ -126,19 +126,6 @@ get_header(); ?>
                     <div class="collapse" id="collapseOff5">
                         <p class="serv-off-desc">Gone are the information “black holes” typical of traditional after-hours answering services. The Patient Contact Center ensures everything is documented directly in the patient record.</p>
                     </div>
-
-                    <a class="serv-off-title collapsed" href="#collapseOff6" data-toggle="collapse">
-                        <h4 class="serv-off-title-text">
-                            Another Offering
-                            <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
-                              <use class="serv-off-arrow" xlink:href="#icon-arrow-right" x="0" y="0" />
-                            </svg>
-                        </h4>
-                    </a>
-                    <div class="collapse" id="collapseOff6">
-                        <p class="serv-off-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sapien eu lorem faucibus cursus at sed lectus. Nam interdum egestas imperdiet.</p>
-                    </div>
-
                 </div>
                 <div class="col-sm-12 col-md-4">
                     <a class="serv-off-title collapsed" href="#collapseOff7" data-toggle="collapse">
