@@ -40,7 +40,7 @@ get_header(); ?>
         </div>
     </section>
 
-    <section class="section pad-section">
+    <section class="section pad-section offerings">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 text-center">
