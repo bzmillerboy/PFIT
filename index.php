@@ -22,7 +22,7 @@ get_header(); ?>
 			    <section class="hero homepage">
 			        <div class="container">
 			            <h1 class="brand">We USE technology to remove barriers<br class="visible-lg"> between physicians and patients.</h1>
-			            <p>Path forward empowers independent physician practices with technology-driven solutions that free them to focus on patient care.</p>
+			            <p>Path forward empowers physician practices with technology-driven solutions that free them to focus on patient care.</p>
 			            <a class="btn btn-fill btn-brand-orange cc-active" href="/services">Learn More</a>
 			        </div>
 			    </section>
