@@ -18,6 +18,7 @@
 	</div><!-- #page -->
 
 	<!--  jQuery and Bootstrap core files    -->
+	<script src="<?php bloginfo( 'template_directory' ); ?>/assets/js/jquery-1.10.2.js" type="text/javascript"></script>
 	<script src="<?php bloginfo( 'template_directory' ); ?>/assets/js/jquery-ui-1.10.4.custom.min.js" type="text/javascript"></script>
 	<script src="<?php bloginfo( 'template_directory' ); ?>/bootstrap3/js/bootstrap.min.js" type="text/javascript"></script>
 
