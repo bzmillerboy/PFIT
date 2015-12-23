@@ -24,7 +24,6 @@ get_header(); ?>
             <h1 class="brand">
                 Technology, the great equalizer
             </h1>
-            <p>Technology is the tool we use to level the playing field for independent practices.</p>
         </div>
     </section>
 
@@ -39,7 +38,7 @@ get_header(); ?>
                       margin-bottom: -10px;
                     ">
                     <h2 class="text-center brand">Our process? Depends.</h2>
-                    <p>We don’t believe in one size fits all service, turnkey solutions. We start by clearly identifying the problems you need solving, and then we’ll work together to create solutions that are the best fit for your specific needs.</p>
+                    <p>We don’t believe in one-size-fits-all solutions. We begin by clearly identifying the problems you need to solve, then work together to create solutions that fit your specific needs.</p>
                     <a href="contact-us" class="btn btn-round btn-default push-top">Contact Us</a>
                 </div>
             </div>
