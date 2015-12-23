@@ -25,7 +25,18 @@ get_header(); ?>
 				<span class="x-out-container">Jobs<img class="x-out x-short" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/x.png" /></span>
                 Careers
             </h1>
-            <p>Path Forward is a team of individuals striving for something better. We believe that the strength, experiences and values of every one of our team members set us apart from other IT vendors. As we expand, so does our need for exceptionally talented employees.</p>
+            
+        </div>
+    </section>
+    
+    <section class="section pad-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 col-sm-offset-2 text-center">
+                    <h3>WE’RE BETTER TOGETHER.</h3>
+					<p class="text-muted">Path Forward is a team of individuals striving for something better. We believe that the strength, experiences and values of every one of our team members set us apart from other IT vendors. As we expand, so does our need for exceptionally talented employees.</p>
+                </div>
+            </div>
         </div>
     </section>
 
@@ -33,7 +44,7 @@ get_header(); ?>
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 text-center">
-                    <h3>WE BELIEVE</h3>
+                    <h2 class="brand">WE BELIEVE:</h>
                 </div>
                 <div class="col-sm-12">
                     <div class="slider">
@@ -45,7 +56,7 @@ get_header(); ?>
                                 <p>That people and relationships are the beginning of anything good and sustainable.</p>
                             </div>
                             <div class="slide thirdanimation">
-                                <p>That our Leaders should be Servants.</p>
+                                <p>That our leaders should be servants.</p>
                             </div>
                         </div>
                     </div>
