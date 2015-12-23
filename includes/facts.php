@@ -4,7 +4,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-sm-12 text-center">
-                    <h3 class="brand">HERE ARE THE FACTS</h3>
+                    <h3 class="brand">HERE ARE THE FACTS:</h3>
                     <br>
                 </div>
             </div>
@@ -26,7 +26,7 @@
                       <div class="card">
                           <div class="content">
                               <h5 class="card-title">What is it?</h5>
-                              <p class="sell-cont-text">We answer your patient phone calls just like you would, working directly in your practice’s EHR. As a covered entity, HIPAA compliance is in our DNA too.</p>
+                              <p class="sell-cont-text">We answer your patient phone calls just like you would, and work directly inside your practice’s EHR. As a covered entity, HIPAA compliance is in our DNA, too.</p>
                           </div>
                       </div>
                   </div>
@@ -41,7 +41,7 @@
                       <div class="card">
                           <div class="content">
                               <h5 class="card-title">Why do I need it?</h5>
-                              <p class="sell-cont-text">The healthcare marketplace is becoming more competitive, and first impressions matter more than ever. Of all industries, healthcare should feel the more personal, but long phone wait times have patients feeling more like a number.</p>
+                              <p class="sell-cont-text">The healthcare marketplace is becoming more competitive, and first impressions matter more than ever. Of all industries, healthcare should feel the most personal, but long hold times make patients feel more like a number.</p>
                           </div>
                       </div>
                   </div>
