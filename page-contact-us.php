@@ -30,13 +30,17 @@ get_header(); ?>
     <section class="section pad-section section-perfect" style="background-color:#F3F6F7;">
         <div class="container">
             <div class="row">
-            	<h3>LET’S TALK.</h3>
                 <div class="col-sm-6">
+                	<h3>LET’S TALK.</h3>
                     <p>We’d love to talk with you about how Path Forward can help with your IT initiatives, so you can focus on patient care. Please drop us a line and we’ll get back to you promptly.</p>
                 </div>
                 <div class="col-sm-6">
-                    <h3><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> 513.924.5500</h3>
-                    <h3><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> info@pathforward.us</h3>
+                    <h3><svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <use class="Phonesignal" xlink:href="#Phonesignal" x="0" y="0" />
+                    </svg>513.924.5500</h3>
+                    <h3><svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
+	                                  <use class="Message" xlink:href="#Message" x="0" y="0" />
+	                                </svg>info@pathforward.us</h3>
                 </div>
             </div>
         </div>
