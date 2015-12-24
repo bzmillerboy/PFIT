@@ -9,7 +9,7 @@
                     <a href="/advisory">
                         <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/chart.svg" />
                         <h3 class="ser-title">Advisory</h3>
-                        <p class="ser-desc">Expertise and Guidance for the toughest healthcare challenges</p>
+                        <p class="ser-desc">Expertise and guidance for the toughest healthcare challenges.</p>
                         <span class="ser-link">Learn More</span>
                     </a>
                 </div>
@@ -17,7 +17,7 @@
                     <a href="/clinical-documentation">
                         <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/Network.svg" />
                         <h3 class="ser-title">Clinical Documentation</h3>
-                        <p class="ser-desc">Traditional dictation meets discrete data</p>
+                        <p class="ser-desc">Traditional dictation meets discrete data.</p>
                         <span class="ser-link">Learn More</span>
                     </a>
                 </div>
@@ -25,7 +25,7 @@
                     <a href="/managed-it">
                         <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/Browsertool.svg" />
                         <h3 class="ser-title">Managed IT</h3>
-                        <p class="ser-desc">Complete IT solutions for modern healthcare</p>
+                        <p class="ser-desc">Complete IT solutions for modern healthcare.</p>
                         <span class="ser-link">Learn More</span>
                     </a>
                 </div>
@@ -33,7 +33,7 @@
                     <a href="/patient-contact-center">
                         <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/Headset.svg" />
                         <h3 class="ser-title">Patient Contact Center</h3>
-                        <p class="ser-desc">Revolutionizing how patients talk to their physicians</p>
+                        <p class="ser-desc">Revolutionizing how patients talk to their physicians.</p>
                         <span class="ser-link">Learn More</span>
                     </a>
                 </div>
@@ -41,7 +41,7 @@
                     <a href="/compliance-and-security">
                         <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/billpaid.svg" />
                         <h3 class="ser-title">Compliance & Security</h3>
-                        <p class="ser-desc">Keeping what's yours safe, secure and affordable </p>
+                        <p class="ser-desc">Keeping what's yours safe, secure and affordable.</p>
                         <span class="ser-link">Learn More</span>
                     </a>
                 </div>
