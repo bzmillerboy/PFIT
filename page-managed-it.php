@@ -19,7 +19,7 @@ get_header(); ?>
 
 <div class="wrapper">
 
-    <section class="hero managed-it">
+    <section class="hero managed-it" style="background-attachment:inherit;">
         <div class="container">
             <h1 class="brand">
                 NOBODY’S ACCOMPLISHED ANYTHING GREAT WEARING MITTENS.
