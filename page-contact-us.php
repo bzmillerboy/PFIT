@@ -19,16 +19,15 @@ get_header(); ?>
 
 <div class="wrapper">
 
-    <section class="hero contact-us">
+    <section class="hero contact-us" style="background-attachment:inherit;">
         <div class="container">
             <h1 class="brand">
                 Contact Us
             </h1>
-            <p>We’d love to talk with you about how Path Forward can help with your IT initiatives, so you can focus on patient care. Please drop us a line and we’ll get back to you promptly.</p>
         </div>
     </section>
     
-    <section class="section pad-section section-perfect">
+    <section class="section pad-section section-perfect" style="background-color:#F3F6F7;">
         <div class="container">
             <div class="row">
             	<h3>LET’S TALK.</h3>
