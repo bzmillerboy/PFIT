@@ -126,8 +126,18 @@ get_header(); ?>
                     <div class="collapse" id="collapseOff5">
                         <p class="serv-off-desc">Receiving appropriate payment for care rendered is no easy task. Billing changes are a driving force of change in the medical industry, and our consultants help you stay ahead of the game by ensuring that your company is generating the appropriate revenue for the medical services you provide.</p>
                     </div>
-
                     
+                    <a class="serv-off-title collapsed" href="#collapseOff3" data-toggle="collapse">
+                        <h4 class="serv-off-title-text">
+                            Practice Analytics
+                            <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
+                              <use class="serv-off-arrow" xlink:href="#icon-arrow-right" x="0" y="0" />
+                            </svg>
+                        </h4>
+                    </a>
+                    <div class="collapse" id="collapseOff3">
+                        <p class="serv-off-desc">Every other business in America runs their business on data—healthcare should, too. Contact us to find out how to leverage your data to perform more profitably.</p>
+                    </div>
 
                     <a class="serv-off-title collapsed" href="#collapseOff12" data-toggle="collapse">
                         <h4 class="serv-off-title-text">
@@ -143,17 +153,7 @@ get_header(); ?>
 
                 </div>
                 <div class="col-sm-12 col-md-4">
-                    <a class="serv-off-title collapsed" href="#collapseOff3" data-toggle="collapse">
-                        <h4 class="serv-off-title-text">
-                            Practice Analytics
-                            <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
-                              <use class="serv-off-arrow" xlink:href="#icon-arrow-right" x="0" y="0" />
-                            </svg>
-                        </h4>
-                    </a>
-                    <div class="collapse" id="collapseOff3">
-                        <p class="serv-off-desc">Every other business in America runs their business on data—healthcare should, too. Contact us to find out how to leverage your data to perform more profitably.</p>
-                    </div>
+                    
 
                     <a class="serv-off-title collapsed" href="#collapseOff6" data-toggle="collapse">
                         <h4 class="serv-off-title-text">
