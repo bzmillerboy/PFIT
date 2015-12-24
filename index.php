@@ -84,7 +84,8 @@ get_header(); ?>
 			                    <h2 class="text-center brand">Want to learn more?</h2>
 			                    <p class="text-left">Please explore our site, and know that we’re always happy to schedule a brief call or travel to you to explain more about what we do. We’d love to get to know you and talk about how we’ve empowered other practices who might have been in a similar situation.</p>
 			                    <p class="text-left">Oh, and by the way, we don't employ salespeople (not that we have a problem with sales). We’ve always grown by referral, so you can rest assured we won't harass you after our first introduction.</p>
-			                    <a href="" class="btn btn-fill btn-brand-orange editable">Services Overview</a>
+			                    <br />
+                                <a href="" class="btn btn-fill btn-brand-orange editable">Services Overview</a>
 			                </div>
 			            </div>
 			        </div>
