@@ -20,7 +20,7 @@ get_header(); ?>
 <div class="wrapper">
 
 
-    <section class="hero advisory">
+    <section class="hero advisory" style="background-attachment:inherit;">
         <div class="container">
             <h1 class="brand">
                 We love getting our hands dirty.

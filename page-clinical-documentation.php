@@ -19,7 +19,7 @@ get_header(); ?>
 
 <div class="wrapper">
 
-    <section class="hero clinical-docs">
+    <section class="hero clinical-docs" style="background-attachment:inherit;">
         <div class="container">
             <h1 class="brand">
                 PUTTING TIME BACK ON YOUR SIDE

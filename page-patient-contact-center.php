@@ -20,7 +20,7 @@ get_header(); ?>
 <div class="wrapper">
 
 
-    <div class="hero patient-contact">
+    <div class="hero patient-contact" style="background-attachment:inherit;">
         <div class="container text-center">
             <h1 class="brand">
                 GAME CHANGER
