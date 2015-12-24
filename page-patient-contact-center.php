@@ -23,7 +23,7 @@ get_header(); ?>
     <div class="hero patient-contact" style="background-attachment:inherit;">
         <div class="container text-center">
             <h1 class="brand">
-                REVOLUTIONIZING PATIENT<div class="visible-md"><br /></div> ACCESS TO HEALTHCARE.
+                REVOLUTIONIZING PATIENT ACCESS TO HEALTHCARE.
             </h1>
             
         </div>
