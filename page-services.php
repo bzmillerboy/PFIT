@@ -22,7 +22,7 @@ get_header(); ?>
     <section class="hero services" style="background-attachment:inherit;">
         <div class="container">
             <h1 class="brand">
-                Technology, the great equalizer
+                Technology, the great equalizer.
             </h1>
         </div>
     </section>
