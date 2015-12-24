@@ -39,7 +39,7 @@ get_header(); ?>
                     ">
                     <h2 class="text-center brand">Our process? Depends.</h2>
                     <p>We don’t believe in one-size-fits-all solutions. We begin by clearly identifying the problems you need to solve, then work together to create solutions that fit your specific needs.</p>
-                    <a href="contact-us" class="btn btn-round btn-default push-top">Contact Us</a>
+                    <a href="/contact-us" class="btn btn-round btn-default push-top">Contact Us</a>
                 </div>
             </div>
         </div>
