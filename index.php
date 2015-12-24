@@ -21,9 +21,9 @@ get_header(); ?>
 
 			    <section class="hero homepage">
 			        <div class="container">
-			            <h1 class="brand">We USE technology to remove barriers<br class="visible-lg"> between physicians and patients.</h1>
-			            
-			            <a class="btn btn-fill btn-brand-orange cc-active" href="/services">Learn More</a>
+			            <h1 class="brand">We USE technology to remove barriers<br class="visible-lg"> between physicians and patients.</h1>       
+			            <br />
+                        <a class="btn btn-fill btn-brand-orange cc-active" href="/services">Learn More</a>
 			        </div>
 			    </section>
 
