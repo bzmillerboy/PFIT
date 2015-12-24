@@ -23,13 +23,9 @@ get_header(); ?>
     <div class="hero patient-contact" style="background-attachment:inherit;">
         <div class="container text-center">
             <h1 class="brand">
-                GAME CHANGER
+                REVOLUTIONIZING PATIENT ACCESS TO HEALTHCARE.
             </h1>
-            <div class="row">
-                <div class="col-sm-8 col-sm-offset-2">
-                    <p>REVOLUTIONIZING PATIENT ACCESS TO HEALTHCARE.</p>
-                </div>
-            </div>
+            
         </div>
     </div>
 
