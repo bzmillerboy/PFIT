@@ -44,7 +44,7 @@
                 <div class="row">
                     <div class="col-sm-12">
                        <p>
-                           &copy; 2015 Path Forward | <a href="#">Terms of Use</a> | <a href="#">Privacy and Security Statement</a>
+                           &copy; <?php echo date("Y"); ?> Path Forward <!-- >| <a href="#">Terms of Use</a> | <a href="#">Privacy and Security Statement</a>-->
                        </p>
                    </div>
                </div>
