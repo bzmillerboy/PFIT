@@ -35,12 +35,14 @@ get_header(); ?>
                     <p>We’d love to talk with you about how Path Forward can help with your IT initiatives, so you can focus on patient care. Please drop us a line and we’ll get back to you promptly.</p>
                 </div>
                 <div class="col-sm-6">
-                    <h3><svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
-                      <use class="Phonesignal" xlink:href="#Phonesignal" x="0" y="30" />
-                    </svg>513.924.5500</h3>
-                    <h3><svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
-	                                  <use class="Message" xlink:href="#Message" x="0" y="30" />
-	                                </svg>info@pathforward.us</h3>
+                    <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <use class="Phonesignal" xlink:href="#Phonesignal" x="0" y="0" />
+                    </svg>
+                    <h3>513.924.5500</h3>
+                    <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
+	                                  <use class="Message" xlink:href="#Message" x="0" y="0" />
+	                                </svg>
+                                    <h3>info@pathforward.us</h3>
                 </div>
             </div>
         </div>
