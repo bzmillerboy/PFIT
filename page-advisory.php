@@ -127,17 +127,7 @@ get_header(); ?>
                         <p class="serv-off-desc">Receiving appropriate payment for care rendered is no easy task. Billing changes are a driving force of change in the medical industry, and our consultants help you stay ahead of the game by ensuring that your company is generating the appropriate revenue for the medical services you provide.</p>
                     </div>
 
-                    <a class="serv-off-title collapsed" href="#collapseOff9" data-toggle="collapse">
-                        <h4 class="serv-off-title-text">
-                            Revenue Cycle Consulting
-                            <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
-                              <use class="serv-off-arrow" xlink:href="#icon-arrow-right" x="0" y="0" />
-                            </svg>
-                        </h4>
-                    </a>
-                    <div class="collapse" id="collapseOff9">
-                        <p class="serv-off-desc">To achieve the results you expect, your IT function needs to be driven by your business and clinical objectives. We work with you to validate your objectives, match up appropriate IT solutions, and create a plan for action. </p>
-                    </div>
+                    
 
                     <a class="serv-off-title collapsed" href="#collapseOff12" data-toggle="collapse">
                         <h4 class="serv-off-title-text">
