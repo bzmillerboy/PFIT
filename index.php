@@ -64,7 +64,7 @@ get_header(); ?>
 			                               <h2><span class="italic">Put simply,</span> <span class="brand">WE GET IT</span></h2>
 			                            </div>
 			                        </div>
-			                       <p class="id-text">Physician practices face unprecedented challenges, from regulatory and security pressures to simply getting home at a reasonable hour without your EHR slowing you down. We understand that technology has to work harder than ever so you can “do more with less.” Path Forward provides value-added services that help doctors do what they do best: serve their patients.</p>
+			                       <p class="id-text">Physician practices face unprecedented challenges, from regulatory and security pressures to simply getting home at a reasonable hour without their EHR slowing them down. We understand that technology has to work harder than ever to “do more with less.” Path Forward provides value-added services that help doctors do what they do best: serve their patients.</p>
 			                   </div>
 			               </div>
 			           </div>
