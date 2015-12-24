@@ -3,6 +3,7 @@
         <div class="row">
             <div class="col-sm-12 text-center">
                 <h2 class="brand">Services</h2>
+               <p> Technology is the tool we use to level the playing field for physician practices.</p>
                 <br>
                 <div class="col-ser">
                     <a href="/advisory">
