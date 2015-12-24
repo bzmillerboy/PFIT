@@ -22,7 +22,7 @@ get_header(); ?>
     <section class="hero clinical-docs" style="background-attachment:inherit;">
         <div class="container">
             <h1 class="brand">
-                PUTTING TIME BACK ON YOUR SIDE
+                PUTTING TIME BACK ON YOUR SIDE.
             </h1>
             
         </div>

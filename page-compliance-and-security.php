@@ -23,7 +23,7 @@ get_header(); ?>
         <div class="container">
             <h1 class="brand">
                 COMPLIANCE =
-                <span class="x-out-container">BURDEN<img class="x-out" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/x.png" /></span> RESPONSIBILITY
+                <span class="x-out-container">BURDEN<img class="x-out" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/x.png" /></span> RESPONSIBILITY.
             </h1>
             
         </div>
