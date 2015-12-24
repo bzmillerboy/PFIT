@@ -27,8 +27,23 @@ get_header(); ?>
             <p>We’d love to talk with you about how Path Forward can help with your IT initiatives, so you can focus on patient care. Please drop us a line and we’ll get back to you promptly.</p>
         </div>
     </section>
+    
+    <section class="section pad-section section-perfect">
+        <div class="container">
+            <div class="row">
+            	<h3>LET’S TALK.</h3>
+                <div class="col-sm-6">
+                    <p>We’d love to talk with you about how Path Forward can help with your IT initiatives, so you can focus on patient care. Please drop us a line and we’ll get back to you promptly.</p>
+                </div>
+                <div class="col-sm-6">
+                    <h3><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> 513.924.5500</h3>
+                    <h3><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> info@pathforward.us</h3>
+                </div>
+            </div>
+        </div>
+    </section>
 
-    <section class="section section-perfect">
+    <!--section class="section section-perfect">
         <div class="contact-row">
             <div class="container-fluid">
                 <div class="row">
@@ -54,7 +69,7 @@ get_header(); ?>
                </div>
            </div>
         </div>
-    </section>
+    </section-->
 
     <?php get_template_part( 'includes/maps' ); ?>
 
