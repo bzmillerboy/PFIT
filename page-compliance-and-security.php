@@ -39,22 +39,8 @@ get_header(); ?>
             </div>
         </div>
     </section>
-    
-    <section class="section pad-section" style="background-color:#F3F6F7">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-8 col-sm-offset-2 text-center">
-                    <h3>21st CENTURY EXPECTATIONS</h3>
-                    <p>
-                        <em>...Like seatbelts in cars.</em>
-                    </p>
-                    <p class="text-muted">In this day and age, HIPAA compliance should be part of what you do every day—not something you do once a year. It sometimes feels like a burden because most of our competitors approach it with price gouging, fear-based sales, and complicated services with no clear endpoint. Not at Path Forward. Our practical, day-to-day guidance provides what you need to operationalize HIPAA compliance practically.</p>
-                </div>
-            </div>
-        </div>
-    </section>
 
-    <section class="section pad-section services-offerings offerings section-perfect" style="background-color:#FFF">
+    <section class="section pad-section services-offerings offerings section-perfect">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 text-center">
@@ -125,6 +111,21 @@ shepherd guide.</p>
             </div>
         </div>
     </section>
+    
+    <section class="section pad-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 col-sm-offset-2 text-center">
+                    <h3>21st CENTURY EXPECTATIONS</h3>
+                    <p>
+                        <em>...Like seatbelts in cars.</em>
+                    </p>
+                    <p class="text-muted">In this day and age, HIPAA compliance should be part of what you do every day—not something you do once a year. It sometimes feels like a burden because most of our competitors approach it with price gouging, fear-based sales, and complicated services with no clear endpoint. Not at Path Forward. Our practical, day-to-day guidance provides what you need to operationalize HIPAA compliance practically.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
     		</main><!-- #main -->
     	</div><!-- #primary -->
 <?php get_footer(); ?>
