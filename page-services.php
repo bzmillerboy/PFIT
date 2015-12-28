@@ -19,7 +19,7 @@ get_header(); ?>
 
 <div class="wrapper">
 
-    <section class="hero services" style="background-attachment:inherit;">
+    <section class="hero services">
         <div class="container">
             <h1 class="brand">
                 Technology, the great equalizer.
