@@ -82,7 +82,7 @@ get_header(); ?>
                           <use class="Browsertool" xlink:href="#Browsertool" x="0" y="0" />
                         </svg>
                     </div>
-                    <h2 class="text-center brand">Managed IT Offerings</h2>
+                    <h2 class="text-center brand">Managed IT Service Offerings</h2>
                 </div>
             </div>
             <div class="row">
