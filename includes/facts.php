@@ -56,7 +56,7 @@
                       <div class="card">
                           <div class="content">
                               <h5 class="card-title">When does it work?</h5>
-                              <p class="sell-cont-text">We answer calls 24/7/365. We’ve even got you covered during inclement weather with redundant operations in Jacksonville, FL.  Gone are the days of being limited in after-hours service.</p>
+                              <p class="sell-cont-text">We answer calls 24/7/365. We’ve even got you covered during inclement weather with redundant operations.  Gone are the days of being limited in after-hours service.</p>
                           </div>
                       </div>
                   </div>
