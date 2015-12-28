@@ -207,7 +207,7 @@ get_header(); ?>
 		                </div>
 						<div class="col-md-5 col-md-offset-1">
 		                    <h3 class="flush-top">Traditional Transcription</h3>
-                            <p class="text-muted">Our revolutionary, proprietary guided workflow makes for a great patient experience. Agents know exactly the information they need, when they need it.</p>
+                            <p class="text-muted">Sometimes the old ways are the best ways. Simple enough. Our highly trained transcriptionists provide high quality, efficient, and accurate medical records in various specialties. Every document is reviewed for quality assurance, so you can rest assured that notes are in good hands. You dictate, we type, magic happens.</p>
 		                </div>
                     </div>
                 </div>
