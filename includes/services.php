@@ -6,26 +6,18 @@
                <p> Technology is the tool we use to level the playing field for physician practices.</p>
                 <br>
                 <div class="col-ser">
-                    <a href="/advisory">
-                        <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/chart.svg" />
-                        <h3 class="ser-title">Advisory</h3>
-                        <p class="ser-desc">Expertise and guidance for the toughest healthcare challenges.</p>
-                        <span class="ser-link">Learn More</span>
-                    </a>
-                </div>
-                <div class="col-ser">
-                    <a href="/clinical-documentation">
-                        <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/Network.svg" />
-                        <h3 class="ser-title">Clinical Documentation</h3>
-                        <p class="ser-desc">Traditional dictation meets discrete data.</p>
-                        <span class="ser-link">Learn More</span>
-                    </a>
-                </div>
-                <div class="col-ser">
                     <a href="/managed-it">
                         <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/Browsertool.svg" />
                         <h3 class="ser-title">Managed IT</h3>
                         <p class="ser-desc">Complete IT solutions for modern healthcare.</p>
+                        <span class="ser-link">Learn More</span>
+                    </a>
+                </div>
+                <div class="col-ser">
+                    <a href="/advisory">
+                        <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/chart.svg" />
+                        <h3 class="ser-title">Advisory</h3>
+                        <p class="ser-desc">Expertise and guidance for the toughest healthcare challenges.</p>
                         <span class="ser-link">Learn More</span>
                     </a>
                 </div>
@@ -45,6 +37,15 @@
                         <span class="ser-link">Learn More</span>
                     </a>
                 </div>
+                <div class="col-ser">
+                    <a href="/clinical-documentation">
+                        <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/Network.svg" />
+                        <h3 class="ser-title">Clinical Documentation</h3>
+                        <p class="ser-desc">Traditional dictation meets discrete data.</p>
+                        <span class="ser-link">Learn More</span>
+                    </a>
+                </div>
+                
            </div>
        </div>
     </div>
