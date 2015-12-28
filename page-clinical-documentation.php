@@ -188,7 +188,7 @@ get_header(); ?>
 		                </div>
 						<div class="col-md-5 col-md-offset-1">
 		                    <h3 class="flush-top">Virtual Scribe</h3>
-                            <p class="text-muted">EHR technologies have brought great advances to healthcare, but often at the cost of medical providers’ quality of life. Our virtual scribe service ensures you can continue to meet Meaningful Use and other clinical quality initiative requirements by populating the correct discrete data fields in your EHR, while also allowing you the freedom of using your own words to document your patient visit.</p>
+                            <p class="text-muted">EHR technologies have brought great advances to healthcare. However, the overload of documentation and clerical responsibilities slows physicians down, often at the cost of patient care. Our revolutionary Virtual Scribe combines the convenience of a medical scribe and the efficiency of smart technology to provide a solution that makes documenting your patient’s story simple again. Our service ensures you can continue to meet Meaningful Use and other clinical quality initiatives by populating the correct discrete data fields in your EHR, while allowing you the freedom of using your own words to document your patient visit. You dictate, we do the rest.</p>
 		                </div>
                     </div>
                 </div>
@@ -203,7 +203,7 @@ get_header(); ?>
                     <div class="row">
                         <div class="col-md-5 col-md-offset-1">
 		                    <h3 class="flush-top">Voice Recognition</h3>
-                            <p class="text-muted">Utilizing real-time speech recognition technologies has become a mainstay for many physicians. Path Forward is trained and certified on all major voice recognition platforms and can provide complete sales, implementation and support for Nuance's Dragon and NVOQs platforms. We can also help you configure back-end speech recognition, as well!</p>
+                            <p class="text-muted">Utilizing real-time speech recognition technologies has become a mainstay for many physicians. Path Forward is trained and certified on all major voice recognition systems and can provide complete sales, implementation and support for Nuance's Dragon and NVOQs platforms. These feature-rich solutions allow medical providers to create and maintain accurate medical records efficiently and cost effectively. We can also help you configure back-end speech recognition, as well!</p>
 		                </div>
 						<div class="col-md-5 col-md-offset-1">
 		                    <h3 class="flush-top">Traditional Transcription</h3>

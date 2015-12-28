@@ -26,7 +26,7 @@
                       <div class="card">
                           <div class="content">
                               <h5 class="card-title">What is it?</h5>
-                              <p class="sell-cont-text">We answer your patient phone calls just like you would, and work directly inside your practice’s EHR. As a covered entity, HIPAA compliance is in our DNA, too.</p>
+                              <p class="sell-cont-text">From your patients’ perspective, we are your practice. We answer patient calls just like you would, and work directly inside your practice’s EHR.</p>
                           </div>
                       </div>
                   </div>

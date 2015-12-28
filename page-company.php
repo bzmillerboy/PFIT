@@ -103,7 +103,7 @@ get_header(); ?>
                 <div class="row">
                     <div class="col-xs-12 col-sm-8 col-sm-offset-2 text-center">
                         <h2 class="brand">Meet the team</h2>
-                        <p>Our strength is our team. We live our core values. We serve each other, our community and our clients with an unrelenting passion. We listen intently, admit when we make mistakes and grow stronger in the process.</p>
+                        <p>Our strength is our team. More than 200 strong, we serve each other, our community and our clients with an unrelenting passion. Here are a few of our key players.</p>
                     </div>
                 </div>
                 <div class="row">

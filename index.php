@@ -32,7 +32,7 @@ get_header(); ?>
 			            <div class="row">
 			                <div class="col-md-6">
 			                    <h3>PATIENTS NEED THEIR DOCTORS MORE THAN EVER.</h3>
-									<p class="text-muted">From healthcare reform to new compensation models, it seems the only constant in healthcare is change. That’s why physician practices around the country rely on Path Forward for technology-driven solutions that free them to focus on patient care.</p>
+									<p class="text-muted">From healthcare reform to new compensation models, the only constant in healthcare is change. That’s why physician practices around the country rely on Path Forward for technology-driven solutions that free them to focus on patient care.</p>
 			                </div>
 			                <div class="col-md-6">
 			                    <div class="embed-responsive embed-responsive-16by9">
