@@ -14407,7 +14407,11 @@ footer {
   .sell .sell-box-active .icon-circle {
     background: #003B5C; }
   .sell .card-title {
-    text-align: center; }
+    text-align: center;
+    color: #333333; }
+    @media (min-width: 992px) {
+      .sell .card-title {
+        color: #ffffff; } }
   .sell .card {
     margin-top: -35px;
     position: relative;
