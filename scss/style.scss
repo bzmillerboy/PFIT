@@ -595,6 +595,10 @@ footer {
   }
   .card-title {
     text-align: center;
+    color: $gray-dark;
+    @media (min-width: $screen-md-min) {
+      color: #ffffff;
+    }
   }
   .card {
     margin-top: -35px;
