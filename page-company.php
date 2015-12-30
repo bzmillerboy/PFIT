@@ -18,7 +18,7 @@ get_header(); ?>
 		<main id="main" class="site-main" role="main">
 <div class="wrapper">
 
-    <section class="hero company" style="background-image:inherit;">
+    <section class="hero company" style="background-attachment:inherit;">
         <div class="container">
             <h1 class="brand">
                 DEFYING CATEGORIZATION SINCE 2002.
