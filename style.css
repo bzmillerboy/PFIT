@@ -13938,7 +13938,8 @@ img {
 
 .section {
   box-shadow: rgba(0, 31, 51, 0.09) 0px -1px 0px 0px;
-  padding: 80px 0; }
+  padding: 80px 0;
+  overflow: hidden; }
 
 .section-hard-ends {
   padding: 0; }
@@ -14525,7 +14526,8 @@ footer {
   padding: 20px;
   margin: 0 auto;
   text-align: center;
-  margin-right: 26px; }
+  margin-right: 26px;
+  margin-bottom: 10px; }
   .arrow-box .timeline-title {
     margin: 0; }
 

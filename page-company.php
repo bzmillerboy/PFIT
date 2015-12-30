@@ -16,6 +16,7 @@ get_header(); ?>
 
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
+            
 <div class="wrapper">
 
     <section class="hero company" style="background-attachment:inherit;">
@@ -63,7 +64,7 @@ get_header(); ?>
                     <br>
                     <br>
                     <div class="col-val">
-                        <img class="ser-icon" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/Datawork.svg" />
+                        <img class="ser-icon img-responsive" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/Datawork.svg" />
                         <h3 class="ser-title">Service</h3>
                         <p class="ser-desc">We go out of our way to prioritize others’ needs.</p>
                     </div>

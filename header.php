@@ -20,6 +20,7 @@
 <link rel="shortcut icon" href="<?php bloginfo( 'template_directory' ); ?>/favicon.ico">
 
 <?php wp_head(); ?>
+
 </head>
 
 <body <?php body_class(); ?>>

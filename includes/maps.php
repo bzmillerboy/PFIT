@@ -12,7 +12,9 @@
                </div>
            </div>
            <div class="col-sm-6">
-               <a href="https://www.google.com/maps/place/Cincinnati,+OH/"><img src="<?php bloginfo( 'template_directory' ); ?>/assets/images/map-cincinnati.jpg" alt="Google Map of Cincinnati, OH"></a>
+               <a href="https://www.google.com/maps/place/Cincinnati,+OH/">
+                  <img class="img-responsive" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/map-cincinnati.jpg" alt="Google Map of Cincinnati, OH">
+               </a>
            </div>
            <div class="col-sm-12">
                <hr>
@@ -28,7 +30,7 @@
                </div>
            </div>
            <div class="col-sm-6">
-               <img width="585" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/map-columbus.jpg" alt="Google Map of COLUMBUS, OH">
+               <img class="img-responsive" width="585" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/map-columbus.jpg" alt="Google Map of COLUMBUS, OH">
            </div>
            <div class="col-sm-12">
                <hr>
@@ -44,7 +46,7 @@
                </div>
            </div>
            <div class="col-sm-6">
-               <img width="585" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/map-indianapolis.jpg" alt="Google Map of Indianapolis, IN">
+               <img class="img-responsive" width="585" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/map-indianapolis.jpg" alt="Google Map of Indianapolis, IN">
            </div>
            <div class="col-sm-12">
                <hr>
@@ -60,7 +62,7 @@
                </div>
            </div>
            <div class="col-sm-6">
-               <img width="585" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/map-jacksonville.jpg" alt="Google Map of Jacksonville, FL">
+               <img class="img-responsive" width="585" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/map-jacksonville.jpg" alt="Google Map of Jacksonville, FL">
            </div>
            <div class="col-sm-12">
                <hr>
@@ -76,7 +78,7 @@
                </div>
            </div>
            <div class="col-sm-6">
-               <img width="585" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/map-memphis.jpg" alt="Google Map of Memphis, TN">
+               <img class="img-responsive" width="585" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/map-memphis.jpg" alt="Google Map of Memphis, TN">
            </div>
        </div>
    </div>
