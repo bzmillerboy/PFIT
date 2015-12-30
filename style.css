@@ -13997,6 +13997,9 @@ img {
     .navbar .navbar-nav > li > a {
       margin: 15px 3px !important; } }
 
+.dropdown-menu > li:last-child > a, .dropdown-menu > li:first-child > a {
+  border-radius: 0; }
+
 /*******************************
   HERO
 ********************************/

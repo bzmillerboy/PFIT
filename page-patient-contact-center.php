@@ -25,7 +25,7 @@ get_header(); ?>
             <h1 class="brand">
                 REVOLUTIONIZING PATIENT ACCESS TO HEALTHCARE.
             </h1>
-            
+
         </div>
     </div>
 
@@ -38,7 +38,7 @@ get_header(); ?>
                 </div>
                 <div class="col-md-6">
                     <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="//www.youtube.com/v/gJot_8dm3fY?color2=FBE9EC&amp;rel=0&amp;hd=1&amp;showsearch=0&amp;showinfo=0&amp;controls=0&amp;version=3&amp;modestbranding=1"></iframe>
+						<iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/gJot_8dm3fY?color2=FBE9EC&amp;rel=0&amp;hd=1&amp;showsearch=0&amp;showinfo=0&amp;controls=0&amp;version=3&amp;modestbranding=1" frameborder="0" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
@@ -85,7 +85,7 @@ get_header(); ?>
                         <p class="serv-off-desc">All physician information, scheduling preferences, location details and insurance plans are stored in a centralized system that’s constantly kept up-to-date—so <em>precisely</em> the right information is available to agents <em>instantly</em>.</p>
                     </div>
 
-                    
+
 
                 </div>
                 <div class="col-sm-12 col-md-4">
@@ -137,7 +137,7 @@ get_header(); ?>
                         <p class="serv-off-desc">Our proprietary system analyzes all of your practice specifics and presents the information to the agent interactively, in real time.</p>
                     </div>
 
-                    
+
 
                 </div>
             </div>

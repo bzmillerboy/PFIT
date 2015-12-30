@@ -21,7 +21,7 @@ get_header(); ?>
 
 			    <section class="hero homepage" style="background-attachment:inherit;">
 			        <div class="container">
-			            <h1 class="brand">We USE technology to remove barriers<br class="visible-lg"> between physicians and patients.</h1>       
+			            <h1 class="brand">We USE technology to remove barriers<br class="visible-lg"> between physicians and patients.</h1>
 			            <br />
                         <a class="btn btn-fill btn-brand-orange cc-active" href="/services">Learn More</a>
 			        </div>
@@ -36,7 +36,7 @@ get_header(); ?>
 			                </div>
 			                <div class="col-md-6">
 			                    <div class="embed-responsive embed-responsive-16by9">
-			                        <iframe class="embed-responsive-item" src="//www.youtube.com/v/gJot_8dm3fY?color2=FBE9EC&amp;rel=0&amp;hd=1&amp;showsearch=0&amp;showinfo=0&amp;controls=0&amp;version=3&amp;modestbranding=1"></iframe>
+														<iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/gJot_8dm3fY?color2=FBE9EC&amp;rel=0&amp;hd=1&amp;showsearch=0&amp;showinfo=0&amp;controls=0&amp;version=3&amp;modestbranding=1" frameborder="0" allowfullscreen></iframe>
 			                    </div>
 			                </div>
 			            </div>

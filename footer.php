@@ -32,7 +32,6 @@
 	<script src="<?php bloginfo( 'template_directory' ); ?>/assets/js/chartist.min.js"></script>
 	<script src="<?php bloginfo( 'template_directory' ); ?>/assets/js/jquery.tagsinput.js"></script>
 	<script src="<?php bloginfo( 'template_directory' ); ?>/assets/js/bootstrap-hover-dropdown.min.js"></script>
-	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
 
 	<!--  Get Shit Done Kit PRO Core javascript -->
 	<script src="<?php bloginfo( 'template_directory' ); ?>/assets/js/get-shit-done.js"></script>

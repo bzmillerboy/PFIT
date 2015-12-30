@@ -26,7 +26,7 @@ get_header(); ?>
             </h1>
         </div>
     </section>
-    
+
     <section class="section pad-section section-perfect" style="background-color:#F3F6F7;">
         <div class="container">
             <div class="row">
@@ -35,7 +35,7 @@ get_header(); ?>
                     <p>We’d love to talk with you about how Path Forward can help with your IT initiatives, so you can focus on patient care. Please drop us a line and we’ll get back to you promptly.</p>
                 </div>
                 <div class="col-sm-6">
-                    
+
                     <h3>513.924.5500</h3>
                     <h3>info@pathforward.us</h3>
                 </div>
@@ -77,13 +77,9 @@ get_header(); ?>
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
-
-
-                    <form role="form">
-                        <div class="row">
-                            <?php echo do_shortcode( '[contact-form-7 id="4" title="Contact Us"]' ); ?>
-                        </div>
-                    </form>
+                    <div class="row">
+                        <?php echo do_shortcode( '[contact-form-7 id="4" title="Contact Us"]' ); ?>
+                    </div>
                </div>
            </div>
         </div>

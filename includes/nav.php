@@ -20,7 +20,7 @@
     <div class="collapse navbar-collapse">
       <ul class="nav nav-fullwidth navbar-nav navbar-right">
             <li class="active editable"><a href="<?php echo home_url(); ?>">Home</a></li>
-            <li class="dropdown">
+            <li class="dropdown visible-md visible-lg">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="/clinical-documentation">Clinical Documentation</a></li>
@@ -29,6 +29,17 @@
                 <li><a href="/advisory">Advisory</a></li>
                 <li><a href="/managed-it">Managed IT</a></li>
                 <li><a href="/services">Overview</a></li>
+              </ul>
+            </li>
+            <li class="dropdown visible-xs visible-sm">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="/services">Overview</a></li>
+                <li><a href="/managed-it">Managed IT</a></li>
+                <li><a href="/advisory">Advisory</a></li>
+                <li><a href="/patient-contact-center">Patient Contact Center</a></li>
+                <li><a href="/compliance-and-security">Compliance &amp; Security</a></li>
+                <li><a href="/clinical-documentation">Clinical Documentation</a></li>
               </ul>
             </li>
             <li><a href="/company">Company</a></li>

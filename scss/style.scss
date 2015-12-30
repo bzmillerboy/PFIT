@@ -115,6 +115,10 @@ img {
     margin: 15px 3px !important;
   }
 }
+
+.dropdown-menu > li:last-child > a, .dropdown-menu > li:first-child > a {
+  border-radius: 0;
+}
 /*******************************
   HERO
 ********************************/
@@ -597,7 +601,7 @@ footer {
     text-align: center;
     color: $gray-dark;
     @media (min-width: $screen-md-min) {
-      color: #ffffff; 
+      color: #ffffff;
     }
   }
   .card {
