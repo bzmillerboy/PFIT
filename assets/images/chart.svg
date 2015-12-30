@@ -1,32 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="169px" height="169px" viewBox="0 0 169 169" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
-    <title>chart</title>
+    <title>Chart</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
+    <defs>
+        <path id="path-1" d="M0,0 L6,0 L6,15 L0,15 L0,0 L0,0 Z"></path>
+        <path id="path-3" d="M0,0 L6,0 L6,22 L0,22 L0,0 L0,0 Z"></path>
+        <path id="path-5" d="M0,0 L6,0 L6,32 L0,32 L0,0 L0,0 Z"></path>
+        <path id="path-7" d="M0,0 L6,0 L6,7 L0,7 L0,0 L0,0 Z"></path>
+    </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="chart" sketch:type="MSLayerGroup" transform="translate(1.000000, 1.000000)" stroke-width="2" stroke="#314E55">
-            <g id="Homepage-v2" sketch:type="MSShapeGroup">
-                <g id="Page">
-                    <g id="Services-v3">
-                        <g id="Chart-Copy">
-                            <g id="colored">
-                                <g id="Marketing">
-                                    <g id="Chart">
-                                        <path d="M0,6.93975904 L0,166.554217" id="Line" stroke-dasharray="4"></path>
-                                        <path d="M10.0348432,166.554217 L167.247387,166.554217" id="Line"></path>
-                                        <path d="M10.0348432,0 L167.247387,0" id="Line"></path>
-                                        <rect id="Rectangle-1594" fill="#F3F6F7" x="26.7595819" y="97.1566265" width="20.0696864" height="52.0481927"></rect>
-                                        <rect id="Rectangle-1594" fill="#F3F6F7" x="93.6585366" y="72.8674699" width="20.0696864" height="76.3373494"></rect>
-                                        <rect id="Rectangle-1595" fill="#FF8F1C" x="60.2090592" y="38.1686747" width="20.0696864" height="111.036145"></rect>
-                                        <rect id="Rectangle-1595" fill="#FF8F1C" x="127.108014" y="124.915662" width="20.0696864" height="24.2891566"></rect>
-                                    </g>
-                                </g>
-                            </g>
-                        </g>
-                    </g>
-                </g>
+        <g id="Chart" sketch:type="MSLayerGroup" transform="translate(-4.000000, -5.000000)">
+            <g id="Group-4" stroke="#2F4E55" stroke-width="2" sketch:type="MSShapeGroup" stroke-linecap="square" stroke-linejoin="round">
+                <path d="M5,9 L5,55" id="Stroke-1" stroke-dasharray="4,4"></path>
+                <path d="M8,55 L55,55 M8,7 L55,7" id="Stroke-3"></path>
             </g>
+            <g id="Group-7" transform="translate(13.000000, 35.000000)">
+                <mask id="mask-2" sketch:name="Clip 6" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-6"></g>
+                <path d="M-0.04,-0.02 L6.08,-0.02 L6.08,15.1 L-0.04,15.1 L-0.04,-0.02 Z" id="Fill-5" fill="#F3F6F7" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+            </g>
+            <path d="M13,35 L19,35 L19,50 L13,50 L13,35 Z" id="Stroke-8" stroke="#2F4E55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <g id="Group-12" transform="translate(33.000000, 28.000000)">
+                <mask id="mask-4" sketch:name="Clip 11" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="Clip-11"></g>
+                <path d="M0,-0.1 L6,-0.1 L6,22.1 L0,22.1 L0,-0.1 Z" id="Fill-10" fill="#F3F6F7" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+            </g>
+            <path d="M33,28 L39,28 L39,50 L33,50 L33,28 Z" id="Stroke-13" stroke="#2F4E55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <g id="Group-17" transform="translate(23.000000, 18.000000)">
+                <mask id="mask-6" sketch:name="Clip 16" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <g id="Clip-16"></g>
+                <path d="M-0.08,-0.06 L6.04,-0.06 L6.04,32.1 L-0.08,32.1 L-0.08,-0.06 Z" id="Fill-15" fill="#FF8F1C" sketch:type="MSShapeGroup" mask="url(#mask-6)"></path>
+            </g>
+            <path d="M23,18 L29,18 L29,50 L23,50 L23,18 Z" id="Stroke-18" stroke="#2F4E55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <g id="Group-22" transform="translate(43.000000, 43.000000)">
+                <mask id="mask-8" sketch:name="Clip 21" fill="white">
+                    <use xlink:href="#path-7"></use>
+                </mask>
+                <g id="Clip-21"></g>
+                <path d="M-0.04,-0.1 L6.08,-0.1 L6.08,7.1 L-0.04,7.1 L-0.04,-0.1 Z" id="Fill-20" fill="#FF8F1C" sketch:type="MSShapeGroup" mask="url(#mask-8)"></path>
+            </g>
+            <path d="M43,43 L49,43 L49,50 L43,50 L43,43 Z" id="Stroke-23" stroke="#2F4E55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
         </g>
     </g>
 </svg>

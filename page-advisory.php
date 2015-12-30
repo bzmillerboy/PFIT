@@ -25,7 +25,7 @@ get_header(); ?>
             <h1 class="brand">
                 We love getting our hands dirty.
             </h1>
-            
+
         </div>
     </section>
 
@@ -46,7 +46,7 @@ get_header(); ?>
                 <div class="col-sm-12 text-center">
                     <div class="icon-circle">
                         <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
-                          <use class="papersdesk" xlink:href="#papersdesk" x="0" y="0" />
+                          <use class="Chart" xlink:href="#Chart" x="0" y="0" />
                         </svg>
                     </div>
                     <h2 class="text-center brand">Advisory Offerings</h2>
@@ -126,7 +126,7 @@ get_header(); ?>
                     <div class="collapse" id="collapseOff5">
                         <p class="serv-off-desc">With the transition from traditional fee-for-service reimbursement models to value-based payment initiatives, receiving appropriate payment for care rendered is no easy task. Our consultants have the billing, coding and accounts-receivable management experience to improve collections and maintain your organization’s profitability.</p>
                     </div>
-                    
+
                     <a class="serv-off-title collapsed" href="#collapseOff3" data-toggle="collapse">
                         <h4 class="serv-off-title-text">
                             Practice Analytics
@@ -153,7 +153,7 @@ get_header(); ?>
 
                 </div>
                 <div class="col-sm-12 col-md-4">
-                    
+
 
                     <a class="serv-off-title collapsed" href="#collapseOff6" data-toggle="collapse">
                         <h4 class="serv-off-title-text">
@@ -190,7 +190,7 @@ get_header(); ?>
                     <div class="collapse" id="collapseOff11">
                         <p class="serv-off-desc">Increased patient consumerism and payer requirements place a premium on the ability for provider organizations to engage their patients. Path Forward has the experience to help your organization design and implement patient portals, transactional satisfaction survey tools, and advisory councils to increase access and measure and manage the patient experience.</p>
                     </div>
-                    
+
                     <a class="serv-off-title collapsed" href="#collapseOff12" data-toggle="collapse">
                         <h4 class="serv-off-title-text">
                             Clinical Workflow

@@ -52,8 +52,8 @@ get_header(); ?>
             <div class="row">
                 <div class="col-sm-12 text-center">
                     <div class="icon-circle">
-                        <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
-                          <use class="papersdesk" xlink:href="#papersdesk" x="0" y="0" />
+						<svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <use class="Headset" xlink:href="#Headset" x="0" y="0" />
                         </svg>
                     </div>
                     <h2 class="text-center brand">Patient Contact Center Benefits</h2>

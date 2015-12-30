@@ -25,7 +25,7 @@ get_header(); ?>
                 COMPLIANCE =
                 <span class="x-out-container">BURDEN<img class="x-out" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/x.png" /></span> RESPONSIBILITY.
             </h1>
-            
+
         </div>
     </section>
 
@@ -46,7 +46,7 @@ get_header(); ?>
                 <div class="col-sm-12 text-center">
                     <div class="icon-circle">
                         <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
-                          <use class="papersdesk" xlink:href="#papersdesk" x="0" y="0" />
+                          <use class="Billpaid" xlink:href="#Billpaid" x="0" y="0" />
                         </svg>
                     </div>
                     <h2 class="text-center brand">Compliance &amp; Security Offerings</h2>
@@ -63,7 +63,7 @@ get_header(); ?>
                         </h4>
                     </a>
                     <div class="collapse" id="collapseOff1">
-                        <p class="serv-off-desc">Our team provides exceptional assessments at reasonable costs. Our reports are actionable and easy to understand, ensuring that you have the ability to remediate risks without a 
+                        <p class="serv-off-desc">Our team provides exceptional assessments at reasonable costs. Our reports are actionable and easy to understand, ensuring that you have the ability to remediate risks without a
 shepherd guide.</p>
                     </div>
 
@@ -103,7 +103,7 @@ shepherd guide.</p>
                     </a>
                     <div class="collapse" id="collapseOff5">
                         <p class="serv-off-desc">Preparing for setbacks, or even worst-case scenarios, often falls at the bottom of priority lists. With our results-driven, practical approach, your office can feel confident about being prepared for whatever comes its way.</p>
-                        
+
 
                     </div>
 
@@ -111,7 +111,7 @@ shepherd guide.</p>
             </div>
         </div>
     </section>
-    
+
     <section class="section pad-section section-arrows">
         <div class="container">
             <div class="row">
@@ -125,7 +125,7 @@ shepherd guide.</p>
             </div>
         </div>
     </section>
-    
+
     		</main><!-- #main -->
     	</div><!-- #primary -->
 <?php get_footer(); ?>
