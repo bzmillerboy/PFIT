@@ -20,7 +20,7 @@
 <link rel="shortcut icon" href="<?php bloginfo( 'template_directory' ); ?>/favicon.ico">
 
 <?php wp_head(); ?>
-
+<script type="text/javascript" src="<?php bloginfo( 'template_directory' ); ?>/js/html5shiv.min.js"></script>
 </head>
 
 <body <?php body_class(); ?>>
