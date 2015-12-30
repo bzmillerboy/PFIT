@@ -4355,20 +4355,20 @@ a.thumbnail:focus,
 a.thumbnail.active {
   border-color: #337ab7; }
 
-.alert {
+.alert, div.wpcf7-mail-sent-ok {
   padding: 15px;
   margin-bottom: 28px;
   border: 1px solid transparent;
   border-radius: 4px; }
-  .alert h4 {
+  .alert h4, div.wpcf7-mail-sent-ok h4 {
     margin-top: 0;
     color: inherit; }
-  .alert .alert-link {
+  .alert .alert-link, div.wpcf7-mail-sent-ok .alert-link {
     font-weight: bold; }
-  .alert > p,
-  .alert > ul {
+  .alert > p, div.wpcf7-mail-sent-ok > p,
+  .alert > ul, div.wpcf7-mail-sent-ok > ul {
     margin-bottom: 0; }
-  .alert > p + p {
+  .alert > p + p, div.wpcf7-mail-sent-ok > p + p {
     margin-top: 5px; }
 
 .alert-dismissable,
@@ -4381,13 +4381,13 @@ a.thumbnail.active {
     right: -21px;
     color: inherit; }
 
-.alert-success {
+.alert-success, div.wpcf7-mail-sent-ok {
   background-color: #dff0d8;
   border-color: #d6e9c6;
   color: #3c763d; }
-  .alert-success hr {
+  .alert-success hr, div.wpcf7-mail-sent-ok hr {
     border-top-color: #c9e2b3; }
-  .alert-success .alert-link {
+  .alert-success .alert-link, div.wpcf7-mail-sent-ok .alert-link {
     color: #2b542c; }
 
 .alert-info {
@@ -5946,7 +5946,8 @@ input[type="file"] > input[type="button"]::-moz-focus-inner {
 .input-group-addon,
 .tagsinput,
 .navbar,
-.navbar .alert {
+.navbar .alert,
+.navbar div.wpcf7-mail-sent-ok {
   -webkit-transition: all 300ms linear;
   -moz-transition: all 300ms linear;
   -o-transition: all 300ms linear;
@@ -6769,15 +6770,15 @@ input.ct-red + span + label + span.switch-right {
   filter: Alpha(Opacity=35);
   /* For IE8 - See #6059 */ }
 
-.alert {
+.alert, div.wpcf7-mail-sent-ok {
   border: 0;
   border-radius: 0;
   color: #FFFFFF;
   padding: 10px 15px;
   font-size: 14px; }
-  .container .alert {
+  .container .alert, .container div.wpcf7-mail-sent-ok {
     border-radius: 4px; }
-  .navbar .alert {
+  .navbar .alert, .navbar div.wpcf7-mail-sent-ok {
     border-radius: 0;
     left: 0;
     position: absolute;
@@ -6785,13 +6786,13 @@ input.ct-red + span + label + span.switch-right {
     top: 85px;
     width: 100%;
     z-index: 3; }
-  .navbar:not(.navbar-transparent) .alert {
+  .navbar:not(.navbar-transparent) .alert, .navbar:not(.navbar-transparent) div.wpcf7-mail-sent-ok {
     top: 70px; }
 
 .alert-info {
   background-color: rgba(91, 202, 255, 0.98); }
 
-.alert-success {
+.alert-success, div.wpcf7-mail-sent-ok {
   background-color: rgba(76, 217, 100, 0.98); }
 
 .alert-warning {
@@ -13970,6 +13971,11 @@ img {
 .section-tight {
   padding-bottom: 50px; }
 
+div.wpcf7-response-output {
+  float: right;
+  margin-left: 15px;
+  margin-right: 15px; }
+
 /*******************************
   NAV
 ********************************/
@@ -13996,6 +14002,9 @@ img {
   @media (min-width: 992px) {
     .navbar .navbar-nav > li > a {
       margin: 15px 3px !important; } }
+
+.dropdown-menu > li:last-child > a, .dropdown-menu > li:first-child > a {
+  border-radius: 0; }
 
 /*******************************
   HERO
