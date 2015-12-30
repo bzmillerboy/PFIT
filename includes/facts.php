@@ -49,7 +49,7 @@
                       <div class="sell-icon">
                           <div class="icon-circle">
                               <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                <use class="Calendar" xlink:href="#Calendar" x="0" y="0" />
+                                <use class="Timer" xlink:href="#Timer" x="0" y="0" />
                               </svg>
                           </div>
                       </div>

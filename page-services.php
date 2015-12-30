@@ -33,10 +33,7 @@ get_header(); ?>
         <div class="container">
             <div class="row">
                 <div class="col-sm-8 col-sm-offset-2 text-center">
-                    <img src="<?php bloginfo( 'template_directory' ); ?>/assets/images/pfit-icon.svg" style="
-                      width: 50px;
-                      margin-bottom: -10px;
-                    ">
+                    <img class="center icon icon-transparent" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/pfit-icon.svg">
                     <h2 class="text-center brand">Our process? Depends.</h2>
                     <p>We don’t believe in one-size-fits-all solutions. We begin by clearly identifying the problems you need to solve, then work together to create solutions that fit your specific needs.</p>
                     <a href="/contact-us" class="btn btn-round btn-default push-top">Contact Us</a>

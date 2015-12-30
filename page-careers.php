@@ -25,10 +25,10 @@ get_header(); ?>
 				<span class="x-out-container">Jobs<img class="x-out x-short" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/x.png" /></span>
                 Careers
             </h1>
-            
+
         </div>
     </section>
-    
+
     <section class="section pad-section">
         <div class="container">
             <div class="row">
@@ -69,10 +69,7 @@ get_header(); ?>
         <div class="container-fluid">
             <div class="row">
                 <div class="col-sm-8 col-sm-offset-2 text-center">
-                    <img src="<?php bloginfo( 'template_directory' ); ?>/assets/images/pfit-icon.svg" style="
-                      width: 50px;
-                      margin-bottom: -10px;
-                    " />
+                    <img class="center icon icon-transparent" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/pfit-icon.svg">
                     <h2 class="text-center brand">Want something better?</h2>
                     <p>If you believe what we believe we hope you will consider joining our team.</p>
                     <a href="https://workforcenow.adp.com/jobs/apply/posting.html?client=pathfwd&ccId=19000101_000001&type=JS&lang=en_US" target="_blank" class="btn btn-fill btn-brand-orange editable">View Opportunities</a>
