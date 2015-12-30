@@ -96,6 +96,11 @@ div.wpcf7-mail-sent-ok {
   @extend .alert-success;
 }
 
+div.wpcf7-validation-errors {
+  @extend .alert;
+  @extend .alert-warning;
+}
+
 
 /*******************************
   NAV

@@ -4355,20 +4355,20 @@ a.thumbnail:focus,
 a.thumbnail.active {
   border-color: #337ab7; }
 
-.alert, div.wpcf7-mail-sent-ok {
+.alert, div.wpcf7-mail-sent-ok, div.wpcf7-validation-errors {
   padding: 15px;
   margin-bottom: 28px;
   border: 1px solid transparent;
   border-radius: 4px; }
-  .alert h4, div.wpcf7-mail-sent-ok h4 {
+  .alert h4, div.wpcf7-mail-sent-ok h4, div.wpcf7-validation-errors h4 {
     margin-top: 0;
     color: inherit; }
-  .alert .alert-link, div.wpcf7-mail-sent-ok .alert-link {
+  .alert .alert-link, div.wpcf7-mail-sent-ok .alert-link, div.wpcf7-validation-errors .alert-link {
     font-weight: bold; }
-  .alert > p, div.wpcf7-mail-sent-ok > p,
-  .alert > ul, div.wpcf7-mail-sent-ok > ul {
+  .alert > p, div.wpcf7-mail-sent-ok > p, div.wpcf7-validation-errors > p,
+  .alert > ul, div.wpcf7-mail-sent-ok > ul, div.wpcf7-validation-errors > ul {
     margin-bottom: 0; }
-  .alert > p + p, div.wpcf7-mail-sent-ok > p + p {
+  .alert > p + p, div.wpcf7-mail-sent-ok > p + p, div.wpcf7-validation-errors > p + p {
     margin-top: 5px; }
 
 .alert-dismissable,
@@ -4399,13 +4399,13 @@ a.thumbnail.active {
   .alert-info .alert-link {
     color: #245269; }
 
-.alert-warning {
+.alert-warning, div.wpcf7-validation-errors {
   background-color: #fcf8e3;
   border-color: #faebcc;
   color: #8a6d3b; }
-  .alert-warning hr {
+  .alert-warning hr, div.wpcf7-validation-errors hr {
     border-top-color: #f7e1b5; }
-  .alert-warning .alert-link {
+  .alert-warning .alert-link, div.wpcf7-validation-errors .alert-link {
     color: #66512c; }
 
 .alert-danger {
@@ -5947,7 +5947,8 @@ input[type="file"] > input[type="button"]::-moz-focus-inner {
 .tagsinput,
 .navbar,
 .navbar .alert,
-.navbar div.wpcf7-mail-sent-ok {
+.navbar div.wpcf7-mail-sent-ok,
+.navbar div.wpcf7-validation-errors {
   -webkit-transition: all 300ms linear;
   -moz-transition: all 300ms linear;
   -o-transition: all 300ms linear;
@@ -6770,15 +6771,15 @@ input.ct-red + span + label + span.switch-right {
   filter: Alpha(Opacity=35);
   /* For IE8 - See #6059 */ }
 
-.alert, div.wpcf7-mail-sent-ok {
+.alert, div.wpcf7-mail-sent-ok, div.wpcf7-validation-errors {
   border: 0;
   border-radius: 0;
   color: #FFFFFF;
   padding: 10px 15px;
   font-size: 14px; }
-  .container .alert, .container div.wpcf7-mail-sent-ok {
+  .container .alert, .container div.wpcf7-mail-sent-ok, .container div.wpcf7-validation-errors {
     border-radius: 4px; }
-  .navbar .alert, .navbar div.wpcf7-mail-sent-ok {
+  .navbar .alert, .navbar div.wpcf7-mail-sent-ok, .navbar div.wpcf7-validation-errors {
     border-radius: 0;
     left: 0;
     position: absolute;
@@ -6786,7 +6787,7 @@ input.ct-red + span + label + span.switch-right {
     top: 85px;
     width: 100%;
     z-index: 3; }
-  .navbar:not(.navbar-transparent) .alert, .navbar:not(.navbar-transparent) div.wpcf7-mail-sent-ok {
+  .navbar:not(.navbar-transparent) .alert, .navbar:not(.navbar-transparent) div.wpcf7-mail-sent-ok, .navbar:not(.navbar-transparent) div.wpcf7-validation-errors {
     top: 70px; }
 
 .alert-info {
@@ -6795,7 +6796,7 @@ input.ct-red + span + label + span.switch-right {
 .alert-success, div.wpcf7-mail-sent-ok {
   background-color: rgba(76, 217, 100, 0.98); }
 
-.alert-warning {
+.alert-warning, div.wpcf7-validation-errors {
   background-color: rgba(255, 149, 0, 0.98); }
 
 .alert-danger {
