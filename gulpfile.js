@@ -40,6 +40,7 @@ gulp.task('browser-sync', function() {
 gulp.task('sass', function () {
     return gulp.src('scss/style.scss')
         .pipe(sass())
+        .pipe(sass({outputStyle: 'compressed'}))
         .pipe(gulp.dest('./'))
         .pipe(reload({stream:true}));
 });
