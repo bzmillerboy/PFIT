@@ -19,7 +19,7 @@ get_header(); ?>
 
 <div class="wrapper">
 
-    <section class="hero careers">
+    <section class="hero careers" style="background-attachment:inherit;">
         <div class="container">
 			<h1 class="brand">
 				<span class="x-out-container">Jobs<img class="x-out x-short" src="<?php bloginfo( 'template_directory' ); ?>/assets/images/x.png" /></span>
