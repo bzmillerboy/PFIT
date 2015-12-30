@@ -20,8 +20,12 @@
 	<!--  javascript    -->
 	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js" type="text/javascript"></script>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/js/bootstrap.min.js" type="text/javascript"></script>
-	<script src="<?php bloginfo( 'template_directory' ); ?>/assets/js/gsdk.js"></script>
-	<script src="<?php bloginfo( 'template_directory' ); ?>/assets/js/pfit.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js" type="text/javascript"></script>
+	<script src="<?php bloginfo( 'template_directory' ); ?>/assets/js/gsdk.js" type="text/javascript"></script>
+	<script src="<?php bloginfo( 'template_directory' ); ?>/assets/js/pfit.js" type="text/javascript"></script>
+	<script>
+		new WOW().init();
+	</script>
 
 	<?php wp_footer(); ?>
 

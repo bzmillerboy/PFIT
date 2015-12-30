@@ -36,3 +36,6 @@
 $( ".sell-box" ).hover(function() {
   $( this ).toggleClass( "sell-box-active" );
 });
+
+
+new WOW().init();
