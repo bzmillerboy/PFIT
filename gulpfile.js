@@ -3,6 +3,7 @@ var browserSync = require('browser-sync');
 var reload      = browserSync.reload;
 var sass        = require('gulp-sass');
 var svgSprite   = require('gulp-svg-sprite');
+var bless       = require('gulp-bless');
 
 // create svg sprite
 gulp.task('svg-sprite', function () {
@@ -45,7 +46,19 @@ gulp.task('sass', function () {
         .pipe(reload({stream:true}));
 });
 
+gulp.task('css', function() {
+    gulp.src('style.css')
+        .pipe(bless())
+        .pipe(gulp.dest('./splitCSS'));
+});
+
+
 // Default task to be run with `gulp`
-gulp.task('default', ['svg-sprite', 'sass', 'browser-sync'], function () {
+gulp.task('default', ['svg-sprite', 'sass', 'browser-sync', 'watch'], function () {
     gulp.watch("scss/**/*.scss", ['sass']);
+});
+
+// Rerun the task when a file changes
+gulp.task('watch', function () {
+  gulp.watch('./*.css', ['css']);
 });

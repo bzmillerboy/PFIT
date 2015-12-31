@@ -1,15 +1,12 @@
 @import "variables";
 @import "bootstrap";
 @import "gsdk";
-//@import "demo";
-//@import "examples";
 @import "typography";
-@import "pe-icon-7-stroke";
+//@import "pe-icon-7-stroke";
 @import "utilities";
-@import "animate";
+//@import "animate";
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,700,300);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
-//@import "animate";
 html, body { height: 100%; }
 
 //Replace with p and create a "lead font" class
@@ -144,10 +141,7 @@ div.wpcf7-validation-errors {
   color: white;
   position: relative;
   background-size: cover;
-  background-position: center center;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  z-index: 1;
+  background-position: 50% 50%;
   text-align: center;
   padding-top: 80px;
   padding-bottom: 20px;
