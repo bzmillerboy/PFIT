@@ -30,8 +30,10 @@
 
     > li > a {
        padding: $padding-base-vertical $padding-base-horizontal;
-       color: #333333;
-
+       color: #ffffff;
+       @media (min-width: $screen-sm-min) {
+        color: #333333 !important;
+       }
        img{
            margin-top: -3px;
        }

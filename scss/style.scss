@@ -54,7 +54,7 @@ img {
 .section-arrows {
   background-size: cover;
   background-position: center center;
-  background-image: url(assets/images/arrows-bg.jpg);
+  background-image: url(/wp-content/themes/pfit/assets/images/arrows-bg.jpg);
 }
 .section-perfect {
   background-color: $brand-gray;
@@ -163,7 +163,7 @@ div.wpcf7-validation-errors {
   }
 }
 .unity {
-  background-image: url(assets/images/unity-bg.jpg);
+  background-image: url(/wp-content/themes/pfit/assets/images/unity-bg.jpg);
   text-align: left;
   padding-top: 20px;
   padding-bottom: 80px;
@@ -177,34 +177,34 @@ div.wpcf7-validation-errors {
   }
 }
 .homepage {
-  background-image: radial-gradient(50% 100%, rgba(0,58,92,0.85) 44%, rgba(0,58,92,0.95) 100%), url(assets/images/homepage-hero-bg.jpg);
+  background-image: radial-gradient(50% 100%, rgba(0,58,92,0.85) 44%, rgba(0,58,92,0.95) 100%), url(/wp-content/themes/pfit/assets/images/homepage-hero-bg.jpg);
 }
 .services {
-  background-image: radial-gradient(50% 100%, rgba(0,156,222,0.85) 44%, rgba(0,156,222,0.95) 100%), url(assets/images/services-bg.jpg);
+  background-image: radial-gradient(50% 100%, rgba(0,156,222,0.85) 44%, rgba(0,156,222,0.95) 100%), url(/wp-content/themes/pfit/assets/images/services-bg.jpg);
 }
 .clinical-docs {
-  background-image: radial-gradient(50% 100%, rgba(0,156,222,0.85) 44%, rgba(0,156,222,0.95) 100%), url(assets/images/clinical-documentation-bg.jpg);
+  background-image: radial-gradient(50% 100%, rgba(0,156,222,0.85) 44%, rgba(0,156,222,0.95) 100%), url(/wp-content/themes/pfit/assets/images/clinical-documentation-bg.jpg);
 }
 .compliance-security {
-  background-image: radial-gradient(50% 100%, rgba(0,156,222,0.85) 44%, rgba(0,156,222,0.95) 100%), url(assets/images/compliance-and-security-bg.jpg);
+  background-image: radial-gradient(50% 100%, rgba(0,156,222,0.85) 44%, rgba(0,156,222,0.95) 100%), url(/wp-content/themes/pfit/assets/images/compliance-and-security-bg.jpg);
 }
 .managed-it {
-  background-image: radial-gradient(50% 100%, rgba(0,156,222,0.85) 44%, rgba(0,156,222,0.95) 100%), url(assets/images/managed-it-bg.jpg);
+  background-image: radial-gradient(50% 100%, rgba(0,156,222,0.85) 44%, rgba(0,156,222,0.95) 100%), url(/wp-content/themes/pfit/assets/images/managed-it-bg.jpg);
 }
 .advisory {
-  background-image: radial-gradient(50% 100%, rgba(0,156,222,0.85) 44%, rgba(0,156,222,0.95) 100%), url(assets/images/advisory-bg.jpg);
+  background-image: radial-gradient(50% 100%, rgba(0,156,222,0.85) 44%, rgba(0,156,222,0.95) 100%), url(/wp-content/themes/pfit/assets/images/advisory-bg.jpg);
 }
 .patient-contact {
-  background-image: radial-gradient(50% 100%, rgba(0,156,222,0.85) 44%, rgba(0,156,222,0.95) 100%), url(assets/images/patient-contact-center-bg.jpg);
+  background-image: radial-gradient(50% 100%, rgba(0,156,222,0.85) 44%, rgba(0,156,222,0.95) 100%), url(/wp-content/themes/pfit/assets/images/patient-contact-center-bg.jpg);
 }
 .company {
-  background-image: radial-gradient(50% 100%, rgba(255,143,28,0.85) 44%, rgba(255,143,28,0.95) 100%), url(assets/images/company-bg.jpg);
+  background-image: radial-gradient(50% 100%, rgba(255,143,28,0.85) 44%, rgba(255,143,28,0.95) 100%), url(/wp-content/themes/pfit/assets/images/company-bg.jpg);
 }
 .contact-us {
-  background-image: radial-gradient(50% 100%, rgba(34,34,34,0.85) 44%, rgba(34,34,34,0.95) 100%), url(assets/images/contact-us-bg.jpg);
+  background-image: radial-gradient(50% 100%, rgba(34,34,34,0.85) 44%, rgba(34,34,34,0.95) 100%), url(/wp-content/themes/pfit/assets/images/contact-us-bg.jpg);
 }
 .careers {
-  background-image: radial-gradient(50% 100%, rgba(120,180,30,0.85) 44%, rgba(120,180,30,0.95) 100%), url(assets/images/careers-bg.jpg);
+  background-image: radial-gradient(50% 100%, rgba(120,180,30,0.85) 44%, rgba(120,180,30,0.95) 100%), url(/wp-content/themes/pfit/assets/images/careers-bg.jpg);
 }
 
 
@@ -582,7 +582,7 @@ footer {
 .sell {
   background-size: cover;
   background-position: center center;
-  background-image: url(assets/images/sell-bg.jpg);
+  background-image: url(/wp-content/themes/pfit/assets/images/sell-bg.jpg);
   color: white;
   .sell-box {
     width: 96%;
@@ -728,7 +728,7 @@ svg g {
 .map {
   background-size: cover;
   background-position: 30% center;
-  background-image: url(assets/images/map.jpg);
+  background-image: url(/wp-content/themes/pfit/assets/images/map.jpg);
   margin-top: -30px;
   margin-bottom: -30px;
 }

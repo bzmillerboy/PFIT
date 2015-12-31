@@ -49,7 +49,7 @@ gulp.task('sass', function () {
 gulp.task('css', function() {
     gulp.src('style.css')
         .pipe(bless())
-        .pipe(gulp.dest('./splitCSS'));
+        .pipe(gulp.dest('./blessCSS'));
 });
 
 

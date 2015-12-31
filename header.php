@@ -19,23 +19,28 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
+
 <!--Favicon-->
 <link rel="shortcut icon" href="<?php bloginfo( 'template_directory' ); ?>/favicon.ico">
 
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.0/animate.min.css" type="text/css" media="all">
-
-<?php wp_head(); ?>
 
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 10]>
 	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-
-	<link rel="stylesheet" href="<?php bloginfo( 'template_directory' ); ?>/splitCSS/style-blessed1.css" type="text/css" media="all">
-	<link rel="stylesheet" href="<?php bloginfo( 'template_directory' ); ?>/splitCSS/style.css" type="text/css" media="all">
-
+	<link rel="stylesheet" href="<?php bloginfo( 'template_directory' ); ?>/blessCSS/style.css" type="text/css" media="all">
+	<link rel="stylesheet" href="<?php bloginfo( 'template_directory' ); ?>/blessCSS/style-blessed1.css" type="text/css" media="all">
+	<style>
+		.hero {background-image: none !important; background-color: #003B5C;
+		}
+	</style>
 <![endif]-->
+
+
+<?php wp_head(); ?>
+
 </head>
 
 <body <?php body_class(); ?>>
