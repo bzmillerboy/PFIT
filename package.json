@@ -12,6 +12,7 @@
     "autoprefixer": "^6.0.3",
     "browser-sync": "^2.9.10",
     "gulp": "^3.9.0",
+    "gulp-bless": "^3.0.1",
     "gulp-postcss": "^6.0.1",
     "gulp-sass": "^2.1.0-beta",
     "gulp-svg-sprite": "^1.2.13"

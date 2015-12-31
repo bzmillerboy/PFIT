@@ -24,9 +24,13 @@
 
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-<!--[if lt IE 9]>
+<!--[if lt IE 10]>
 	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+
+	<link rel="stylesheet" href="<?php bloginfo( 'template_directory' ); ?>/splitCSS/style-blessed1.css" type="text/css" media="all">
+	<link rel="stylesheet" href="<?php bloginfo( 'template_directory' ); ?>/splitCSS/style.css" type="text/css" media="all">
+
 <![endif]-->
 
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.0/animate.min.css" type="text/css" media="all">
