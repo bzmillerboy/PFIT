@@ -19,7 +19,7 @@ get_header(); ?>
 
 			<div class="wrapper">
 
-			    <section class="hero homepage">
+			    <section class="hero homepage" style="background-attachment:inherit;">
 			        <div class="container">
 			            <h1 class="brand">We USE technology to remove barriers<br class="visible-lg"> between physicians and patients.</h1>
 			            <br />
@@ -61,7 +61,7 @@ get_header(); ?>
 			                    <div class="col-md-6 col-md-offset-4 col-sm-8 col-sm-offset-2 id-content">
 			                        <div class="row id-title">
 			                            <div class="col-xs-6 col-xs-offset-3 col-sm-12 col-sm-offset-0 id-content-small">
-			                               <h2><span class="italic">Put simply,</span> <span class="brand">WE GET IT.</span></h2>
+			                               <h2><span class="brand">WE GET IT.</span></h2>
 			                            </div>
 			                        </div>
 			                       <p class="id-text">Physician practices face unprecedented challenges, from regulatory and security pressures to simply getting home at a reasonable hour without their EHR slowing them down. We understand that technology has to work harder than ever to “do more with less.” Path Forward provides value-added services that help doctors do what they do best: serve their patients.</p>
