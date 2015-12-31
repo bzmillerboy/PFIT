@@ -19,7 +19,7 @@ get_header(); ?>
 
 			<div class="wrapper">
 
-			    <section class="hero homepage" style="background-attachment:inherit;">
+			    <section class="hero homepage">
 			        <div class="container">
 			            <h1 class="brand">We USE technology to remove barriers<br class="visible-lg"> between physicians and patients.</h1>
 			            <br />
