@@ -38,7 +38,7 @@ get_header(); ?>
                 </div>
                 <div class="col-md-6">
                     <div class="embed-responsive embed-responsive-16by9">
-						<iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/4BGF7dXgElM?color2=FBE9EC&amp;rel=0&amp;hd=1&amp;showsearch=0&amp;showinfo=0&amp;controls=0&amp;version=3&amp;modestbranding=1" frameborder="0" allowfullscreen></iframe>
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4BGF7dXgElM?color2=FBE9EC&amp;rel=0&amp;hd=1&amp;showsearch=0&amp;showinfo=0&amp;controls=0&amp;version=3&amp;modestbranding=1" frameborder="0" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
