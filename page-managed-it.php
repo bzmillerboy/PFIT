@@ -31,7 +31,7 @@ get_header(); ?>
         <div class="container">
             <div class="row">
                 <div class="col-sm-8 col-sm-offset-2 text-center">
-                    <h3>YOUR PRACTICE IS UNIQUE. YOUR SOLUTIONS SHOULD BE, TOO.</h3>
+                    <h3>YOUR PRACTICE IS UNIQUE.<br/>YOUR SOLUTIONS SHOULD BE, TOO.</h3>
                     <p class="text-muted">We only serve physician practices, and we realize there’s no such thing as a one-size-fits-all solution. So when it comes to your specific IT needs, we’ve got the dexterity to craft customized solutions that truly fit. </p>
                 </div>
             </div>
