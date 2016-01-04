@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Inboxenvelope</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="outlined" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Marketing_sliced" sketch:type="MSLayerGroup" transform="translate(-480.000000, -1560.000000)"></g>
+        <g id="Imported-Layers" sketch:type="MSLayerGroup" transform="translate(-478.000000, -1551.000000)">
+            <path d="M481,1565 L535,1565 L535,1599 L481,1599 L481,1565 Z" id="Fill-1896" fill="#D8D8D8" sketch:type="MSShapeGroup"></path>
+            <path d="M535,1600 L481,1600 C480.447,1600 480,1599.553 480,1599 L480,1565 C480,1564.447 480.447,1564 481,1564 L535,1564 C535.553,1564 536,1564.447 536,1565 L536,1599 C536,1599.553 535.553,1600 535,1600 L535,1600 Z M482,1598 L534,1598 L534,1566 L482,1566 L482,1598 Z M531,1581 L520,1581 C519.447,1581 519,1580.553 519,1580 L519,1569 C519,1568.447 519.447,1568 520,1568 L531,1568 C531.553,1568 532,1568.447 532,1569 L532,1580 C532,1580.553 531.553,1581 531,1581 L531,1581 Z M521,1579 L530,1579 L530,1570 L521,1570 L521,1579 Z" id="Fill-1898" fill="#535353" sketch:type="MSShapeGroup"></path>
+            <path d="M486,1582 L508.025,1582 L508.025,1584 L486,1584 L486,1582 Z" id="Fill-1899" fill="#535353" sketch:type="MSShapeGroup"></path>
+            <path d="M486,1590 L500,1590 L500,1592 L486,1592 L486,1590 Z" id="Fill-1900" fill="#535353" sketch:type="MSShapeGroup"></path>
+            <path d="M486,1586 L494,1586 L494,1588 L486,1588 L486,1586 Z" id="Fill-1901" fill="#535353" sketch:type="MSShapeGroup"></path>
+            <path d="M497,1586 L502,1586 L502,1588 L497,1588 L497,1586 Z" id="Fill-1902" fill="#535353" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
