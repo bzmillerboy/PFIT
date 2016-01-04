@@ -34,7 +34,7 @@ get_header(); ?>
             <div class="row">
                 <div class="col-sm-8 col-sm-offset-2 text-center">
                     <h3>PROTECTING WHAT MATTERS.</h3>
-                    <p class="text-muted">Maybe it's just us, but we feel like many people are looking at HIPAA compliance all wrong. It’s not simply a “burden,” it’s a responsibility. It’s a commitment to patients who trust you with their care that you will take their information, circumstances and private health matters seriously—and do your best to protect them.</p>
+                    <p class="text-muted">Maybe it's just us, but we feel like many people are looking at HIPAA compliance all wrong. It’s not a burden; it’s a responsibility. It’s a commitment to patients who trust you with their care that you will take their information, circumstances and private health matters seriously—and do your best to protect them.</p>
                 </div>
             </div>
         </div>
