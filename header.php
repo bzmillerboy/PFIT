@@ -33,13 +33,27 @@
 	<link rel="stylesheet" href="<?php bloginfo( 'template_directory' ); ?>/blessCSS/style.css" type="text/css" media="all">
 	<link rel="stylesheet" href="<?php bloginfo( 'template_directory' ); ?>/blessCSS/style-blessed1.css" type="text/css" media="all">
 	<style>
-		.hero {background-image: none !important; background-color: #003B5C;
-		}
+		.navbar { z-index:10000; }
+        #content { z-index:1; }
 	</style>
+<![endif]-->
+<!--[if lte IE 8]>
+	<META http-equiv="refresh" content="1;URL=http://outdatedbrowser.com">
 <![endif]-->
 
 
 <?php wp_head(); ?>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-37487101-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 
 </head>
 
