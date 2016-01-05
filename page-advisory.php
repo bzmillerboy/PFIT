@@ -191,7 +191,7 @@ get_header(); ?>
                         <p class="serv-off-desc">Increased patient consumerism and payer requirements place a premium on the ability for provider organizations to engage their patients. Path Forward has the experience to help your organization design and implement patient portals, transactional satisfaction survey tools, and advisory councils to increase access and measure and manage the patient experience.</p>
                     </div>
 
-                    <a class="serv-off-title collapsed" href="#collapseOff12" data-toggle="collapse">
+                    <a class="serv-off-title collapsed" href="#collapseOff13" data-toggle="collapse">
                         <h4 class="serv-off-title-text">
                             Clinical Workflow
                             <svg class="icon icon-transparent" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -199,8 +199,8 @@ get_header(); ?>
                             </svg>
                         </h4>
                     </a>
-                    <div class="collapse" id="collapseOff12">
-                        <p class="serv-off-desc">Not interested in outsourcing your clinical documentation? We can help build our best practices into your organization. Let our team consult with you to build an optimal configuration for your documentation workflow.</p>
+                    <div class="collapse" id="collapseOff13">
+                        <p class="serv-off-desc">Own your EMR, don’t let it own you. We can help build our best practices into your workflow, eliminating bottlenecks and user-unfriendliness. There is an optimal configuration for every organization’s needs. Let Path Forward help you achieve it.</p>
                     </div>
                 </div>
             </div>
