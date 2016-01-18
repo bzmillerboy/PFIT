@@ -176,14 +176,14 @@ get_header(); ?>
     </section>
 -->
 
-	<!--section class="section pad-section section-red">
+	<section class="section pad-section section-red">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
                     <div class="row">
 						<div class="col-md-6">
 		                    <div class="embed-responsive embed-responsive-16by9">
-								<iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/gJot_8dm3fY?color2=FBE9EC&amp;rel=0&amp;hd=1&amp;showsearch=0&amp;showinfo=0&amp;controls=0&amp;version=3&amp;modestbranding=1" frameborder="0" allowfullscreen></iframe>
+								<iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/s1kePD336ck?color2=FBE9EC&amp;rel=0&amp;hd=1&amp;showsearch=0&amp;showinfo=0&amp;controls=0&amp;version=3&amp;modestbranding=1" frameborder="0" allowfullscreen></iframe>
 		                    </div>
 		                </div>
 						<div class="col-md-5 col-md-offset-1">
@@ -194,22 +194,18 @@ get_header(); ?>
                 </div>
             </div>
         </div>
-    </section-->
+    </section>
 
     <section class="section pad-section" style="background-color:#F3F6F7;">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
                     <div class="row">
-                        <div class="col-md-4">
-		                    <h3 class="flush-top">Virtual Scribe</h3>
-                            <p class="text-muted">EHR technologies have brought great advances to healthcare. However, the overload of documentation and clerical responsibilities slows physicians down, often at the cost of patient care. Our revolutionary Virtual Scribe combines the convenience of a medical scribe and the efficiency of smart technology to provide a solution that makes documenting your patient’s story simple again. Our service ensures you can continue to meet Meaningful Use and other clinical quality initiatives by populating the correct discrete data fields in your EHR, while allowing you the freedom of using your own words to document your patient visit. You dictate, we do the rest.</p>
-		                </div>
-                        <div class="col-md-4">
+                        <div class="col-md-6">
 		                    <h3 class="flush-top">Voice Recognition</h3>
                             <p class="text-muted">Utilizing real-time speech recognition technologies has become a mainstay for many physicians. Path Forward is trained and certified on all major voice recognition systems and can provide complete sales, implementation and support for Nuance's Dragon and NVOQs platforms. These feature-rich solutions allow medical providers to create and maintain accurate medical records efficiently and cost effectively. We can also help you configure back-end speech recognition, as well!</p>
 		                </div>
-						<div class="col-md-4">
+						<div class="col-md-6">
 		                    <h3 class="flush-top">Traditional Transcription</h3>
                             <p class="text-muted">Sometimes the old ways are the best ways. Simple enough. Our highly trained transcriptionists provide high quality, efficient, and accurate medical records in various specialties. Every document is reviewed for quality assurance, so you can rest assured that notes are in good hands. You dictate, we type, magic happens.</p>
 		                </div>
