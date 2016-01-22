@@ -19,7 +19,7 @@ get_header(); ?>
 
 <div class="wrapper">
 
-    <section class="hero careers" style="background-attachment:inherit;">
+    <section class="hero company" style="background-attachment:inherit;">
         <div class="container">
 			<h1 class="brand">
                 Stay Updated.
