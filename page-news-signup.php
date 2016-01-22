@@ -22,7 +22,7 @@ get_header(); ?>
     <section class="hero company" style="background-attachment:inherit;">
         <div class="container">
 			<h1 class="brand">
-                Stay Updated.
+                Stay Up-To-Date.
             </h1>
 
         </div>
