@@ -33,7 +33,7 @@ get_header(); ?>
             <div class="row">
                 <div class="col-sm-8 col-sm-offset-2 text-center">
                     <h3>SIGN UP TO RECEIVE NEWS</h3>
-					<p class="text-muted">Use the form below to signup to receive period news updates from Path Forward.</p>
+					<p class="text-muted">Use the form below to receive periodic news updates from Path Forward. No spam, we promise.</p>
                     
                     <iframe src="https://campaigndirector.myconnectwise.net/serv/form/564b75757a3e9a552c5f8b2d/56a24a1062009c7f51a4cd78/jsweeney2" frameborder=0 scrolling="no" width="100%" height="600px"></iframe>
                 </div>
