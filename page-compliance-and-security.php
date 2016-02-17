@@ -120,7 +120,7 @@ shepherd guide.</p>
                     <p>
                         <em>...Like seatbelts in cars.</em>
                     </p>
-                    <p class="text-muted">In this day and age, HIPAA compliance should be part of what you do every day—not something you do once a year. It sometimes feels like a burden because most of our competitors approach it with price gouging, fear-based sales, and complicated services with no clear endpoint. Not at Path Forward. Our practical, day-to-day guidance provides what you need to operationalize HIPAA compliance practically.</p>
+                    <p class="text-muted">In this day and age, HIPAA compliance should be part of what you do every day—not something you do once a year. It sometimes feels like a burden because most of our competitors approach it with price gouging, fear-based sales, and complicated services with no clear endpoint. Not at Path Forward. Our practical, day-to-day guidance provides what you need to operationalize HIPAA compliance.</p>
                 </div>
             </div>
         </div>
